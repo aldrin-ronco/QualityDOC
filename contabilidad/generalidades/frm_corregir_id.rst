@@ -25,7 +25,7 @@ Introducción
 Cambiar el Id de un Tercero
 ===========================
 
-	- Ejecute la opción "Corrección de documentos de identificación"
+	- Ejecute la opción "Corrección de documentos de identidad"
 	- Pulse el botón *Buscar*. En la ventana emergente elija un tercero haciendo click sobre él y luego Enter.
 	- Se cargará la información del tercero en los campos de la parte superior, en la grilla podrá observar el historial de cambios de su Id.
 
