@@ -9,7 +9,7 @@ Ubicación
  Contabilidad
 
 :Grupo:
- Parámetross
+ Parámetros
 
 :Descripción:
   Corrección de documentos de identidad
