@@ -36,7 +36,7 @@ Para crear un vendedor realice los siguientes pasos:
  		- Caja asignada
  		- Supervisor asignado
 
-
+	Para guardar el cliente haga click en |save.bmp| *Guardar* o presion F2
  .. figure:: images/19.png
       		:align: center
 

@@ -20,6 +20,10 @@ Introducción
 
 En *Consulta de facturación detallada* podrá consultar información pertinenete de las facturas procesadas en un rango de tiempo determinado en un centro de costo específico.
 
+	.. NOTE::
+		Ubíquese en la casilla de la columna 'número' de la factura que busca, y presione f10 para ver el detalle del documento/factura
+
+
  .. figure:: images/4.png
  	   :align: center
 

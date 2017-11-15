@@ -36,7 +36,7 @@ Hacer una remisión
 	- Seleccione el cliente que realizó el pedido
 	- Se desplegará un campo para que elija el pedido correspondiente
 	- En la grilla se listarán los productos. Podrá chequear al final de la fila de cada producto todos aquellos a los que desea darles salida.
-	- Haga click en |save.bmp| *guardar*
+	- Haga click en |save.bmp| *guardar* o presione F2
 
 **Para ver como usar la remisión creada en el momento de la facturación, vea:** `Procesar una venta <../../../ventas/standard/procesos/frm_facturacion.html#crear-una-factura-procesar-una-venta>`_
 

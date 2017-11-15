@@ -62,7 +62,7 @@ Pasos para crear una toma de inventario
 		- Encontrará un árbol con las líneas de productos que por defecto no están seleccionadas. Seleccione las categorías que quiera incluír en la toma. Si desea marcarlas o desmarcarlas todas, pulse el botón *Seleccionar o quitar todas las líneas de productos*
 		- Ahora podrá elegir en el botón *Elegir un proveedor específico* si quiere incluir los productos que han sido entregados a su centro por un proveedor seleccionado. Si desea incluír todos los proveedores entonces ignore el botón.
 		- Elija la `Modalidad de captura`_
-		- Pulse Guardar Toma |save.bmp|
+		- Pulse Guardar Toma |save.bmp| o presione F2
 
 Modalidad de captura
 ^^^^^^^^^^^^^^^^^^^^

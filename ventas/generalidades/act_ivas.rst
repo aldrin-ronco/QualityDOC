@@ -28,7 +28,11 @@ Crear un nuevo IVA
 	- En el campo númerico coloque el porcentaje del impuesto.
 	- Especifique la cuenta contable para la operación de Impuesto Generado, y debajo, la cuenta para reflejar la devolución.
 	- Especifique la cuenta contable para la operación de Impuesto Descontable, y debajo, la cuenta para reflejar la devolución.
-	- Haga click en |save.bmp| *guardar*
+
+		.. NOTE::
+
+			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	- Haga click en |save.bmp| *guardar* o presione la tecla F2
 
 
 Modificar un IVA
@@ -37,7 +41,7 @@ Modificar un IVA
 	- Ejecute la opción *Actualización de impuestos de IVA*
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
- 	- Haga click en |save.bmp| *guardar*
+ 	- Haga click en |save.bmp| *guardar* o presione la tecla F2
  
 
  .. figure:: images/27.png

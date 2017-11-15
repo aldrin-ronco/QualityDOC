@@ -19,6 +19,10 @@ Introducción
 
 En *Informe de devoluciones en ventas* podrá consultar información detallada acerca de todas las devoluciones realizadas a partir de una venta durante un rango de tiempo determinado
 
+	.. NOTE::
+		Ubíquese en la casilla de la columna 'número' de la factura que busca, y presione f10 para ver el detalle del documento/factura
+
+
  .. figure:: images/7.png
  	   :align: center
 

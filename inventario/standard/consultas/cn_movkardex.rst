@@ -19,6 +19,10 @@ Introducción
 
 En este apartado de consultas usted podrá visualizar todas las operaciones transaccionales (Entradas, Salidas, Traslados, etc) de un centro de costo en un período de tiempo determinado.
 
+.. NOTE::
+
+	Presione F10 sobre la casilla 'documento' para ir al documento que generó el movimiento.
+
 .. figure:: images/9.png
    :align: center
 

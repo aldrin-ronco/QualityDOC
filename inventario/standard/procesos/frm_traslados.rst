@@ -56,7 +56,7 @@ Como realizar un envío de mercancías
    |código|Nombre|referencia|cód. Rápido|Stock|cantidad|costo promedio||plus.bmp||
    +------+------+----------+-----------+-----+--------+--------------+----------+
   - En el campo 'cantidad' ingrese la cantidad del producto que desea trasladar. Presione Enter dos veces.
-  - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp|
+  - Puede seguir agregando productos a la grilla presionando Enter de nuevo, o si ya ha terminado puede pulsar |save.bmp| o presione F2 para Guardar.
 
 
    .. figure:: images/42.png
@@ -87,7 +87,7 @@ Si usted está recibiendo una devolución, solo podrá dar ingreso a los product
 
 
 - Marquelos en la fila del producto en el check de la última columna.
-- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp| y así realizar el ingreso.
+- Una vez seleccionados los productos que desea recibir, podrá pulsar |save.bmp|  o presione F2, y así realizar el ingreso.
     - Solo los productos marcados se tomarán en cuenta, y entrarán las cantidades digitadas en la casilla 'procesar'.
     - Despues de pulsar el botón se procederá internamente al ingreso de las unidades y no verá más la grilla.
     - Si quedaron productos por ingresar o devolver, debe volver al paso 2 de esta misma sección.

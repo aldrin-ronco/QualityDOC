@@ -13,6 +13,7 @@ Procesos
   /inventario/standard/procesos/frm_reimprimir_inv
   /inventario/standard/procesos/frm_traslados
   /inventario/standard/procesos/frm_tomainv
+  /inventario/standard/procesos/frm_corregir_costos_inv
   /inventario/standard/procesos/frm_imprimir_codbar
   /inventario/standard/procesos/frm_remisiones
 

@@ -51,7 +51,7 @@ Crear una Resolución de facturación
 		- *Esta resolución aplica como resolución manual:* Márquela si tiene un respaldo manual para el proceso de facturación. Idealmente se designa una resolución solo para ese talonario.
 		- *Resolución Activa:* Márquela si está en actual uso.
 		- *Mostrar ceros a la izquierda:* Márquela si desea que en la factura impresa aparezcan o no, los ceros a la izquierda.
-		- Haga click en el botón |save.bmp| *guardar*
+		- Haga click en el botón |save.bmp| *guardar* o presione F2
 
 Eliminar una Resolución de facturación
 ======================================
