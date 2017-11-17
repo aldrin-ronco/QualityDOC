@@ -29,7 +29,7 @@ A continuación se listan las diferentes opciones de manejo de inventario en el 
 
   En este apartado puede consultar los procedimientos para modificar los parametros que rigen el inventario y crear nuevos porductos/servicios y combos/presentaciones
 
-  `Inventario sin tallaje: <../inventario/_inventario_standard.html>`_
+  `Inventario: <../inventario/_inventario_standard.html>`_
 
 
   Encuentre aquí los pasos para realizar consultas y procedimientos relacionados al inventario

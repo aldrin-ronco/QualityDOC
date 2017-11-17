@@ -60,6 +60,8 @@ Radicar una factura
 
 	 	Puede ver las entradas pendientes por radicar de una manera detallada en formato de hoja de cálculo, presionando "Generar archivo de entradas pendientes"
 
+		La Radicación de una factura no implica el egreso de caja. Para hacer el egreso/pago de esta factura, primero haga la radicación y luego haga el respectivo "Comprobante de egreso" en el módulo tesorería.
+
 ---------------------------------------------------------
 
 

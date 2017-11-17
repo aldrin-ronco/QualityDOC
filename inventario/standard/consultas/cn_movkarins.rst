@@ -18,6 +18,10 @@ Introducción
 ------------
 En el apartado de consultas *Movimiento del Kardex por producto* usted podrá visualizar un reporte de todas las operaciones transaccionales en el centro de costo que incluyan un producto de su eleccíón (entradas, salidas, traslados, etc...).
 
+.. NOTE::
+
+	Presione F10 sobre la casilla 'documento' para ir al documento que generó el movimiento.
+
 .. figure:: images/5.png
    :align: center
 

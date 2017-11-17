@@ -93,7 +93,7 @@ Para procesar una devolución realice los siguientes pasos:
 		   .. figure:: images/devoluciones/3.png
  			    :align: center
 
-	- Verifique los montos y presione |save.bmp| *guardar*
+	- Verifique los montos y haga click en |save.bmp| *guardar* o presione la tecla F2
 
 		   .. figure:: images/devoluciones/4.png
  			   :align: center

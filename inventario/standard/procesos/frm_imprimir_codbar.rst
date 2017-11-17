@@ -98,7 +98,7 @@ Para configurar un modelo de Sticker:
      		:align: center
 
 	- Para eliminar un elemento de las cajas, haga click sobre él y presione la tecla Supr.
-	- Si está modificando o creando una etiqueta nueva, presione |save.bmp| para guardar los cambios o el nuevo diseño.
+	- Si está modificando o creando una etiqueta nueva, presione |save.bmp| o presione F2 para guardar los cambios o el nuevo diseño.
 
 
 

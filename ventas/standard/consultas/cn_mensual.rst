@@ -22,6 +22,10 @@ En *Facturacion mensual* podrá consultar información muy detallada acerca de l
  .. figure:: images/11.png
  	   :align: center
 
+	.. NOTE::
+		Ubíquese en la casilla de la columna 'número' de la factura que busca, y presione f10 para ver el detalle del documento/factura
+
+
 Casos de uso
 ------------
 

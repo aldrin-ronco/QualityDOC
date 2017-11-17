@@ -84,7 +84,7 @@ Para crear un cliente realice los siguientes pasos:
 
  		- Información de Cartera: Se trata de un texto para el usuario que gestiona cartera (información de cobros, contacto, etc). Esta información aparece en la sección de **Cartera** para facilitar la gestión.
 
-
+	Para guardar el cliente haga click en |save.bmp| *Guardar* o presion F2
 
 
 

@@ -113,8 +113,11 @@ Para realizar una *Entrada de almacén por compras* siga los siguientes pasos:
 
   - Visualizará en un documento un comprobante de ingreso de mercancía por compra a proveedor. Puede imprimirlo para respaldo físico. Podrá reimprimir este comprobante en la opción *reimpresión de transacciones de inventario* de este mismo apartado.
 
-	 .. NOTE::
-	   El campo IVA sólo estará presente en la opción *Entrada de almacén por compras* y además si está permitido en las características del producto.
+.. NOTE::
+
+      El campo IVA sólo estará presente en la opción *Entrada de almacén por compras* y además si está permitido en las características del producto.
+      
+      **Una entrada de almacén por compras, no implica una factura de compra. Para registrar una factura, primero realice la "entrada de almacén por compras" y luego *radique la factura* en la opción "Radicación de facturas* en el módulo 'PROVEEDORES'**
 
 Entradas por otros conceptos
 ----------------------------
@@ -191,10 +194,13 @@ Salidas de mercancias
 Introducción
 ------------
 
-Las *salidas de mercancías* son una operación de inventario para el registro de toda salida de un producto del centro de costo. Esta salida puede darse por un concepto predefinido por el usuario o por un proceso administrativo del sistema, tal como: Factura de venta, devolución al proveedor, etc...
+Las *salidas de mercancías* son una operación de inventario para el registro de salida de un producto del centro de costo. Esta salida puede darse por un concepto predefinido por el usuario. **Esta salida no sustituye el proceso de facturación por ventas o devoluciones a proveedores**
 
  .. NOTE::
+   
    En *Generalidades del Módulo de Inventario - Definición de Transacciones de Inventario* Aprendió a crear nuevos tipos de salidas que ahora aparecerán a la hora de dar salida a la mercancía.
+
+   **Una Salida de inventario no implica una venta.**
 
 Para realizar salidas de mercancías por conceptos
 -------------------------------------------------

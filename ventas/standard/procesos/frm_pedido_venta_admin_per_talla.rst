@@ -82,7 +82,7 @@ Para crear un *Pedido* realice los siguientes pasos:
     - Después de agregar el producto en la grilla, podrá modificar la casilla en la columna 'cantidad' siempre que lo considere necesario. Si no hay suficientes productos en existencia el sistema se lo hará saber.
     - En la esquina inferior derecha, podrá ver información relacionada a la facturación (Sub Total, impuestos, descuentos, retenciones y total)
     - Existe un campo bajo la grilla donde podrá escribir alguna nota/observación sobre el pedido
-    - Una vez verifique los montos, haga click en el botón |save.bmp| *guardar*
+    - Una vez verifique los montos, haga click en el botón |save.bmp| *guardar* o presione la tecla F2
     - Haga click en 'Sí' en la ventana de confirmación 
 
 
