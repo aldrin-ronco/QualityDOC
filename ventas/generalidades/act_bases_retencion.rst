@@ -31,6 +31,11 @@ Crear una nueva Base de retención
 		- *Interfaz contable de Ventas:* Cuenta contable afectada por el proceso de retención en ventas.
 		- *Interfaz contable de Auto-retención para Ventas:* Cuenta contable afectada por el proceso de auto-retención en ventas.
 		- *Interfaz contable de compras:* Cuenta contable afectada por el proceso de retención en compras.
+
+		.. NOTE::
+
+			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+			
 		- *Grupo:* Elija el tipo de retención que cubre: CREE, IVA, Renta o ICA.
 	- Haga click en |save.bmp| *guardar*
 

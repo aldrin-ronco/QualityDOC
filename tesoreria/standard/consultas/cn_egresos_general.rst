@@ -23,6 +23,10 @@ Introducción
  			.. figure:: images/egresos.png
  				 :align: center
 
+	.. NOTE::
+		Ubíquese en la casilla de la columna 'número' del egereso que busca, y presione f10 para ver el detalle del documento/factura
+
+
 
 Casos de uso
 ------------
