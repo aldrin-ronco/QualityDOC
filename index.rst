@@ -21,4 +21,4 @@ Módulos Administrativos
   /contabilidad/contabilidad 
   /config/config
 
-*Aclare sus dudas o informe de inconsistencias n la documentación del sistema al correo:* **development@qualitysystems.com.com**
+*Aclare sus dudas sobre el manual o informe de inconsistencias en la documentación del sistema al correo:* **development@qualitysystems.com.com**
