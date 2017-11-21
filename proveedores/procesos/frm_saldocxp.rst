@@ -53,6 +53,10 @@ Realice los siguientes pasos:
 	- Elija la cuenta de proveedor que se verá afectada en la lista 'cta proveedor'
 	- Seleccione la cuenta de contrapartida por defecto, para todos los movimientos ingresados, en la lista 'contrapartida'
 
+.. NOTE::
+	Sitúese sobre el listado de cuentas (partida y/o contrapartida) y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	
+
 
 	 	.. figure:: images/saldos/1.png
  		         :align: center
@@ -64,7 +68,7 @@ Realice los siguientes pasos:
 		- Introduzca la fecha en que fue adquirida la deuda (se generó la factura o la nota) y luego la feha de corte para pagarla.
 		- Elija una cuenta contable específica a afectar como contrapartida. Si no lo hace, tomará la elegida en el paso 4.
 		- Ingrese el monto de la cuenta por pagar
-		- Presione Enter. Ahora puede elegir introducir otra cuenta por pagar a otro proveedor o a ese mismo. Si no tiene más cuentas por pagar entonces pulse el botón |save.bmp| *Guardar Facturas*
+		- Presione Enter. Ahora puede elegir introducir otra cuenta por pagar a otro proveedor o a ese mismo. Si no tiene más cuentas por pagar entonces pulse el botón |save.bmp| *Guardar Facturas* o presione la tecla F2.
 
 
 	 	 	 .. figure:: images/saldos/2.png

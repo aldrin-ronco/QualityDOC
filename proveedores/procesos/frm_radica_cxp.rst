@@ -46,6 +46,10 @@ Radicar una factura
 
 	 	 	 .. figure:: images/radicacion/1.png
  		            :align: center
+.. NOTE::
+
+	Presione F10 sobre la casilla de la columna 'Entrada' paraver en detalle el documento
+
 
 	 - Escriba el número de días que tiene en plazo para pagar esta factura *Necesario*
 	 - Marque en la grilla las Entradas a almacén por compras a proveedor que vienen reflejadas en esta factura. Las entradas vienen identificadas por su referencia, fecha y el monto.

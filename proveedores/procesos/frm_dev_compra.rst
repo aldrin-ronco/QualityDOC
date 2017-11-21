@@ -69,6 +69,11 @@ Devolver una compra
  			    :align: center
 
 		- En la grilla aparecerán todas las ENTRADAS POR COMPRAS RADICADAS en el intervalo de fechas y centro que eligió
+
+.. NOTE::
+
+	Presione F10 sobre la casilla de la columna 'Entrada' paraver en detalle el documento
+
 		- Haga doble click en la entrada donde se encuentran los productos que devolverá
 		- En la grilla aparecerán los productos relacionados a la compra, marque los que desea devolver
 		- En la columna 'Devolver' digite el número de unidades compradas que devolverá
