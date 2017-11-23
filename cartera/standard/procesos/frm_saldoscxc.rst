@@ -51,6 +51,10 @@ Realice los siguientes pasos:
 	- Elija el Centro de costo
 	- Elija la cuenta de cartera que se verá afectada en la lista 'cta cartera'
 	- Seleccione la cuenta de contrapartida por defecto, para todos los movimientos ingresados, en la lista 'contrapartida'
+		.. NOTE::
+
+			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	
 	- Ahora podrá iniciar la inserción de saldos a la grilla
 		- Haga click en la primera casilla de la columna 'código' y presione Enter. Ahora podrá seleccionar alguno de los clientes en la lista.
 		- El siguiente campo {_FC, _ND} indica el tipo de cuenta por cobrar, si se refiere a una factura a crédito o a una nota débito.

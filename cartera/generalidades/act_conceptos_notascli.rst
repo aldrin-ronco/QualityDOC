@@ -29,6 +29,10 @@ Para crear un *concepto de notas a clientes* realice los siguientes pasos:
 	- Se abrirá una ventana nueva, donde podrá seleccionar si desea que el concepto apliqué para 'débito', 'crédito' o 'todos'
 	- En el cuadro de texto 'Nombre del concepto de la nota' indique el nombre con el que identificará más adelante el concepto.
 	- En la lista 'Cuenta contable' escoja la cuenta que se verá afectada si el usuario decide usar este concepto.
+		.. NOTE::
+
+			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	
 	- Puede chequear el siguiente campo para indicar si este concepto implica IVA.
 	- Haga click en |save.bmp| *Guardar*
 

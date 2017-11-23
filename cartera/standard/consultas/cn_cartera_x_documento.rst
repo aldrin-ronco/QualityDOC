@@ -24,6 +24,10 @@ Puede usar los filtros para evaluar el estado de deuda de su cartera en el paso 
 		.. figure:: images/documentos.png
  			:align: center
 
+	.. NOTE::
+		Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	
+
 Casos de uso
 ------------
 
