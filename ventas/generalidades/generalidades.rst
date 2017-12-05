@@ -14,6 +14,8 @@ Parámetros
   /ventas/generalidades/act_ivas
   /ventas/generalidades/act_resoluciones
   /ventas/generalidades/act_bases_retencion
-..   /inventario/generalidades/act_insunidades
+  /ventas/generalidades/frm_cupo_credito.rst
+  
+..  /inventario/generalidades/act_insunidades
 ..  /inventario/generalidades/act_invtransacciones
   
