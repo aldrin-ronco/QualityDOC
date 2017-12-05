@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Bases de retención* puede añadir, modificar o eliminar las Bases necesarias para el proceso de retención de impuestos sobre la facturación.
 
 Crear una nueva Base de retención

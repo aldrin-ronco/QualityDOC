@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Las fuentes contables se refieren al origen administrativo de los movimientos contables, por ejemplo: facturas de ventas, facturas de compras, recibos de caja, comprobantes de egresos, etc. 
 
 	Son representadas en el sistema y en la contabilización, con un _ guión bajo, y dos letras Mayúsculas, ejemplo: _FC = Facturación a crédito; _CG = Causación de gastos.

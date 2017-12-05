@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar los saldos de clientes en cartera que tiene su organización hasta el momento en que empieza a usar el sistema Quality. 
 
 	Es importante tener en cuenta que aunque se use la referencia de una factura, si el cliente ya ha abonado parte del monto, el saldo actual es el saldo inicial en cartera para ese cliente.

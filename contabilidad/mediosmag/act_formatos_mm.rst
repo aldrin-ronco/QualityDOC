@@ -16,6 +16,8 @@ Ubicación
 
 Introducción
 ============
+
+Use **ESC** para salir de las interfaces principales.
 	
 	Un esquema se refiere a las columnas elegidas para el formato del medio magnético. Encuentre en esta interfaz las opciones necesarias para agregar nuevas columnas a su esquema. Aquí puede relacionar la(s) cuenta(s) contable(s) a las columnas de valor.
 

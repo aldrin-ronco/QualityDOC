@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Actualización de impuestos de IVA* puede añadir, modificar o eliminar alguna variación del IVA necesaria para el proceso de facturación.
 
 Crear un nuevo IVA

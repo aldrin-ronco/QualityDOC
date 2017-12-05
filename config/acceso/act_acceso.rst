@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	A través de esta interfaz usted puede crear usuarios y asignarles un perfil. Un perfil dictamina la cantidad de procesos a los que el usuario tiene acceso.
 
 	.. NOTE::

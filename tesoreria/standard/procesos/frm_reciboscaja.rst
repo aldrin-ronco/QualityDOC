@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar los ingresos en un centro de costo por motivo de *Recaudos de cartera* (Abono de venta a crédito) o *Recaudos por conceptos* (Anticipos de clientes, intereses, pago de prestamos a terceros, etc).
 
 	Especifique además el tipo de pago (tarjetas, cheque, efectivo). Si el receptor es directamente una cuenta bancaria, el único medio que podrá escoger será efectivo.

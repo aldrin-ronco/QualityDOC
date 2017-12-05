@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En esta operación usted podrá reimprimir o anular una factura antes hecha.
 
 

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para transferir dinero de una cuenta bancaria/caja general a otra. 
 
 

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En esta operación usted podrá registrar la devolución de mercancías a un proveedor en base a una compra (ya radicada) hecha anteriormente. A partir de allí podrá generar saldo a su favor o cruzar sus cuentas por pagar con una nota de crédito. 
 
  	 		.. figure:: images/devolucion/0.png

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En esta operación usted podrá realizar facturas de ventas a clientes.
 
 - La fecha de la factura se establece automáticamente de acuerdo a la configuración del centro de costo.

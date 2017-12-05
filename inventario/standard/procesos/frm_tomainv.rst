@@ -16,6 +16,8 @@ Toma y aplicación de inventario
 
 Introducción
 ============
+
+Use **ESC** para salir de las interfaces principales.
 *Toma y aplicación de inventario* es una interfaz del sistema que le facilitará la revisión, verificación y ajuste de su inventario en sistema. Evite llevar a cabo cálculos manuales y obtenga plantillas para la toma física del inventario.
 
 	Esta opción le permitirá entre otras cosas:

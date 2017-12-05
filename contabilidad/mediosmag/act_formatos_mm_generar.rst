@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	El Sistema Quality permite el ahorro de recursos a su organización permitiendo la generación de los medios magneticos a partir de una configuración sencilla. 
 
 	La alimentación del sistema, administrativa y contablemente, es fundamental para generar informes y reportes de manera correcta y útil. Se necesitan conocimientos medios en materia administrativa y contable para el buen manejo de este apartado.

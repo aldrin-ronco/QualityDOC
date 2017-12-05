@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Las *Transacciones de Inventario* son todos los tipos de movimientos de inventario que pueden ser realizados en el sistema,
 como por ejemplo: *SALDOS INCIALES DE INVENTARIOS*, *SALIDAS POR AJUSTE CREDITO*, *ENTRADAS POR COMPRAS*, etc ...,
 Estas transacciones están identificadas por un código compuesto de 3 carácteres, para las 3 transacciones citadas anteriormente

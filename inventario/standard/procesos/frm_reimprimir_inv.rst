@@ -15,6 +15,8 @@ Ubicación
 
 Introducción
 ============
+
+Use **ESC** para salir de las interfaces principales.
 Use esta operación para volver a imprimir aquellos documentos relacionados con transacciones de inventario (entradas, salidas, traslados, etc) ya procesados.
 
 Seleccionar una Transacción

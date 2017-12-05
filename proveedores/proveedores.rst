@@ -5,6 +5,8 @@ Proveedores
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En el módulo Proveedores podrá configurar los parametros que definen el comportamiento de las deudas con los proveedores, las devoluciones, las notas de crédito y débito y además se radicalizan las entradas por compras para generar cuentas por pagar. Además, haga las consultas necesarias para obtener información oportuna acerca de sus cuentas por pagar y de la entrada de productos a través de compras.
 
 ---------------------------------

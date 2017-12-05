@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando el pedido haya llegado y desee darle salida, deberá ir a la opción `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_
 
 

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En este proceso podrá organizar los prestamos de confianza que hace a un tercero determinado. Una vez ha realizado el egreso puede recurrir a esta interfaz para establecer el número de cuotas y las fechas de recaudo.mbién podrá hacer los abonos a partir de aquí.
 
 

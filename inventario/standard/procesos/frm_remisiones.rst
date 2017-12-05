@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En este proceso puede hacer una remisión a partir de pedido de ventas ya creado anteriormente. Puede dar salida a productos del inventario sin que se genere una factura.
 
 

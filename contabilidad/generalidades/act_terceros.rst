@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En *Administración de terceros* usted podrá crear, modificar y eliminar entidades de diferentes regímenes. Un tercero se refiere a una figura, persona, organización o ente, que puede interactuar con los procesos administrativos y contables de su organización. Un tercero puede ser: Un proveedor, un cliente, un proveedor de servicios, un administrador de sistema, etc.
 
 	A diferencia de la creación de un cliente o un proveedor, en la creción de un nuevo *tercero* solo verá campos para datos que todos los terceros tienen en común, como un número de identificación o el nombre.

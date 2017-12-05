@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Administración de clientes* podrá crear nuevos clientes, visualizarlos en forma de grilla, eliminarlos o modificar sus datos personales. Cada cliente tiene un código interno asignado y puede buscarlo desde la grilla usando el nombre o documento.
 
 Crear un cliente

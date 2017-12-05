@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En esta operación usted podrá cambiar el costo promedio de un producto en el inventario. Tome en cuenta que:
 
 Las transacciones realizadas antes del cambio de costo, no se verán afectadas por el nuevo valor.

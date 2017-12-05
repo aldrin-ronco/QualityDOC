@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Cada organización tiene procesos que requieren de cierta vigilancia y en los cuales se necesita un responsable. Quality le permite adjudicar ciertos procesos a un usuario del sistema. 
 
 En esta interfaz verá listados los procesos que requieren de autorización y podrá adjudicarles algun usuario.

@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Puede generar un reporte resumido de los comprobantes contables. Filtre el resultado por periodos y fuentes contables. Organice el resumen por terceros. Establezca el nivel de detalle, en el arbol de cuentas, que usted prefiera.
 
 Nivel 3

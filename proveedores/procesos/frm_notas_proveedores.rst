@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar las notas débito y crédito a sus proveedores. Aunque algunas notas son generadas automáticamente (como el caso de las notas crédito por devolución de compras) hay notas que puede crear manualmente.
 
 	Es necesario que haya creado los conceptos necesarios en `conceptos de notas a proveedores <../../proveedores/generalidades/act_conceptos_notasprov.html>`_ para poder crear una nota a un proveedor. 

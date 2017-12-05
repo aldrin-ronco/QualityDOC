@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta interfaz para asignar una contraseña a los procesos a los que se le ha dado autorización. 
 
 Darle acceso a un Usuario

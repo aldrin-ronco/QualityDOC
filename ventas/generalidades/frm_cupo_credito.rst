@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En "Actualización de cupos de crédito" usted podrá administrar el límite de crédito de cada uno de los clientes de su cartera. Para que los límites de crédito sean tomados en cuenta por el sistema, debe tener habilitada en el módulo **Contabilidad** - opción 'Parametrización contable' - pestaña 'Ventas' -  la casilla "Requerir cupo de crédito para ventas a crédito".
 
 	.. Note:

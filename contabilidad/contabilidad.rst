@@ -5,6 +5,8 @@ Contabilidad
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En el módulo "Contabilidad" encuentre las opciones correspondientes a toda la parametrización y consultas acerca de los movimientos contables. Administre el plan de cuentas de su organización y relaciones las cuentas con los debidos procesos, Quality le ofrece una manera flexible de integrar los procesos administrativos con la contabilidad.
 
 ---------------------------------

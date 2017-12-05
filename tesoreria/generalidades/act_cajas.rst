@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Administración de Cajas, Bancos y Franquicias* podrá modificar todos los parámetros necesarios para la agilización de los procesos de Tesorería. 
 
 ---------------------------------------------------------------------------

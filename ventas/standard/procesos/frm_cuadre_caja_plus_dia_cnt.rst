@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Con este proceso se lleva a cabo una comprobación de la cantidad de dinero (en cualquiera de sus modos: efectivo, cheque, tarjetas) comparándolo con las cantidades en sistema. 
 
 	El proceso hace el cierre del día y hace la apertura hacia una fecha siguiente. No podrá hacer una nueva apertura hasta que no se haga el cierre de la última hecha.

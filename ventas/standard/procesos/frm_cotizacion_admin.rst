@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En este proceso puede crear una o más *propuestas comerciales* y agregarlas a una *Cotizacion* dirigida a un cliente determinado.
 
 

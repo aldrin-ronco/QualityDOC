@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use la interfaz de *Administrador de conceptos de recibos de caja y egresos* para crear los conceptos predefinidos para las entradas y salidas de dinero de la organización. Además, puede relacionar cada concepto a una cuenta contable pertinente.
 
 

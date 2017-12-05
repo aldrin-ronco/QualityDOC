@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta interfaz para mantenerse al día con el registro de sus movimientos contables. En *Causación de gastos* puede incluir al sistema todas esas facturas provenientes de gastos varios: educación, transporte, esparcimiento, aseo, servicios, etc.
 
  	 		.. figure:: images/causacion/0.png

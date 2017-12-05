@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Prepare un *Balance de Prueba* al final de un periodo contable para ayudarse en la elaboración de los estados financieros. 
 
 		.. figure:: images/balanceprueba/1.png

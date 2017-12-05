@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	La referencia del documento de identificación de un tercero (cédula, NIT, etc) es clave para la seguridad, búsquedas y transacciones del sistema. Quality le permite cambiar este id de manera segura registrando un historial cronológico de cambios.
 
 		.. figure:: images/idcambio/1.png

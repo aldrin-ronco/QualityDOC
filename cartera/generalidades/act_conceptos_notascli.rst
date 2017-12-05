@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	A través de la interfaz *Conceptos de notas a clientes* usted puede crear los conceptos necesarios para la realización de notas débito o crédito. Además, establezca las cuentas contables que serán afectadas tras usar este concepto en una nota.
 
 Crear Concepto
