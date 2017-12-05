@@ -21,6 +21,12 @@ En *Informe de anticipos a proveedores* podrá consultar el total de saldo al fa
 
 **Todas las operaciones y transacciones relacionadas a caja, banco, cuentas, facturación, pagos y demás, tienen la fecha de la caja abierta**
 
+
+.. NOTE::
+
+	Puede ver en detalle la factura de donde vienen los movimiento haciendo click en la casilla de la columna Documento y presionando F10.
+
+	
  .. figure:: images/anticipos1.png
  	:align: center
 

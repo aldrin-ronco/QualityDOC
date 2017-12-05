@@ -45,7 +45,7 @@ Realice los siguientes pasos:
 	- En el campo 'Prov' seleccione el cliente al que adicionará la nota
 	- En la lista concepto, seleccione el motivo por el cual adiciona la nota. Si no hay un concepto creado no podrá crear tampoco la nota. `conceptos de notas a proveedores <../../proveedores/generalidades/act_conceptos_notasprov.html>`_
 	- Digite en el campo de texto 'valor' el monto de la nota.
-	- En caso de ser una nota débito, seleccione la factura sobre la cual se hará
+	- En caso de ser una nota débito, seleccione la factura sobre la cual se hará. En caso de haber muchas facturas, use la búsqueda rápida, situándose sobre la lista de facturas y presionando Ctrl+enter.
 	- Pulse |plus.bmp| 'Agregar'
 
 	 	 .. figure:: images/notas/1.png

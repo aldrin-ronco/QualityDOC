@@ -40,7 +40,7 @@ Cambiar Nombre a una Región
 ===========================
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
-	- Encuentre la Región en la rama principal del árbol. Haga click derecho sobre ella y elija |wzedit.bmp| *Cambiar nombre a *
+	- Encuentre la Región en la rama principal del árbol. Haga click derecho sobre ella y elija |wzedit.bmp| *Cambiar nombre a*
 
 Crear un Centro de costo
 ========================
@@ -50,7 +50,7 @@ Para crear un *Centro de costo* realice los siguientes pasos:
 	
 	- Ejecute la opción *Estructura de almacenes de la empresa*
 	- Encuentre la región en el árbol dentro de la cual creará el centro de costo. Haga click derecho sobre ella. Escoja la opción |wznew.bmp| *Crear nuevo centro de costo*
-	- Verá en la rama de la Región un nuevo Centro con el nombre editable. Si por algún motivo ya no está editable el nombre del nuevo centro, haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a *
+	- Verá en la rama de la Región un nuevo Centro con el nombre editable. Si por algún motivo ya no está editable el nombre del nuevo centro, haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a*
 
 Eliminar un centro de costo
 ===========================
@@ -69,7 +69,7 @@ Cambiar Nombre a un Centro de costo
 
 	- Ejecute la opción *Estructura de almacenes de la empresa*
 	- Haga click en la Región donde está el *Centro de costo* 
-	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a *
+	- Encuentre el *Centro de Costo* y haga click derecho sobre él y elija |wzedit.bmp| *Cambiar nombre a*
 
 Propiedades de un Centro de Costo
 =================================

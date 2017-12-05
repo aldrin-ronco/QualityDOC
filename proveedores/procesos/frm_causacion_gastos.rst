@@ -41,6 +41,9 @@ Causar un gasto
 		- Seleccione la fecha de la factura y la fecha de vencimiento
 		- Digite el número de la factura
 		- Seleccione en la lista 'Partida crédito' la cuenta contable a la que se acreditará
+.. NOTE::
+	Sitúese sobre el listado de cuentas contrapartida y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	
 		- En el campo 'CC NIT' presione Enter para elegir al proveedor que presta el servicio que genera el gasto
 		- Si lo desea, escriba una Observación que aporte información relevante de la factura o la causación
  	 		

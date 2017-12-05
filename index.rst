@@ -13,6 +13,7 @@ Módulos Administrativos
 .. toctree::
   :maxdepth: 1
 
+
   /inventario/inventario
   /ventas/ventas
   /tesoreria/tesoreria
@@ -20,5 +21,6 @@ Módulos Administrativos
   /proveedores/proveedores
   /contabilidad/contabilidad 
   /config/config
+  /FAQ/faq
 
 *Aclare sus dudas sobre el manual o informe de inconsistencias en la documentación del sistema al correo:* **development@qualitysystems.com.com**

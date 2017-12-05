@@ -12,7 +12,7 @@ Ubicación
  Consultas
 
 :Descripción:
-  Facturas a proveedores por periodos
+  Informe de facturas por proveedor
 
 Introducción
 ------------
@@ -20,8 +20,12 @@ Introducción
 En *Facturas a proveedores por periodos* podrá consultar en uno varios centros de costo los documentos generados por compras a un proveedor (facturas, causaciones, etc) en un periodo de tiempo determinado.
 
 
- .. figure:: images/facturasprov.png
- 	:align: center
+.. NOTE::
+
+	Puede ver en detalle la factura de donde vienen los movimiento haciendo click en la casilla de la columna Documento y presionando F10.
+
+ 	.. figure:: images/facturasprov.png
+ 		:align: center
 
 Casos de uso
 ------------
