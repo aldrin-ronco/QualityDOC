@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Administración de proveedores* podrá crear nuevos proveedores, visualizarlos en forma de grilla, eliminarlos o modificar sus datos. Cada proveedores tiene un código interno asignado, puede buscarlo desde la grilla usando la razón social o el documento.
 
 

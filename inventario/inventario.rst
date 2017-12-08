@@ -5,6 +5,8 @@ Inventario
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 
 El módulo de inventario le permite administrar y gestionar todas las operaciones relacionadas a los productos que son comercializados en la empresa.
 

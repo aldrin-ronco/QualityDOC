@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Administración de Vendedores* podrá crear nuevos vendedores, visualizarlos en forma de grilla, eliminarlos o modificar sus datos personales. Cada vendedor tiene un código interno asignado y puede buscarlo desde la grilla usando el nombre o código.
 
 Crear un vendedor

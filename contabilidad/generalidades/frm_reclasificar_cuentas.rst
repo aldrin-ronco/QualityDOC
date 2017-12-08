@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	A través de esta interfaz podrá cambiar los saldos de una cuenta contable a otra con el fin de corregir errores en los asientos contables de la organización. Si en la paramterización eligió una cuenta equivocada, podrá darle solución en este proceso.
 
 Reclasificar una cuenta

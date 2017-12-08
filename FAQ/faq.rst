@@ -5,6 +5,8 @@ FAQ- Preguntas Frecuentes
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 El sistema Quality le ofrece módulos bastante completos y opciones elaboradas para su comodidad. Si es nuev@ usando nuestro sistema, le recomendamos entrar a nuestro mapa de **opciones rápidas** y nuestro **mapa de procesos**
 
 

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Usted podrá usar esta opción para imprimir etiquetas de código de barras para manejo interno del inventario. Esta opción es exclusiva para aquellos productos cuyo empaque no tenga un código previamente marcado. Si su producto ya tiene código de barras y desea registrarlo en sistema, puede hacerlo en el momento de `crear o editar el producto <../generalidades/act_maestroinsumos.html#productos-servicios>`_
 
 Pre-Requisitos

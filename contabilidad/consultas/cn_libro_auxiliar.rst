@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Puede generar un reporte de los saldos relacionados a las cuentas contables que usted elija, desde una fecha a otra, de manera detallada.
 
  .. figure:: images/auxiliar/1.png

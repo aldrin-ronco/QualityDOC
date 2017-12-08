@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En esta operación usted podrá registrar la devolución de mercancías por parte del cliente en base a una venta hecha anteriormente. A partir de allí podrá generar saldo a favor del cliente o cruzar sus cuentas por pagar con una nota de crédito. 
 
 * Los combos y presentaciones se regresan completos y no separando los productos que les conforman.

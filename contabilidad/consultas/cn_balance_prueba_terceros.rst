@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Obtenga un informe de saldos sumamente detallado de todo movimiento realizado por Cuenta contable / Tercero. Visualice en color rojo los saldos negativos.
 
  .. figure:: images/pruebaterceros/1.png

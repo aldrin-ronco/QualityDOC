@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar las salidas de una caja menor a un tercero. Podrá ver el porcentaje utilizado de la caja en pantalla.
 
 	Cada fila en la grilla muestra información de un gasto. Cada elemnto tiene un checnox en la última casilla que simboliza si el gasto ha sido liquidado o no. Los elementos aparecerán en la grilla hasta que se cierre la caja. Para cerrar la caja todos los gastos deben estar liquidados.

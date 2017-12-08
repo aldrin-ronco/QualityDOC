@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Cree, mueva, modifique y elimine las cuentas contables auxiliares que necesite para la contabilización de su organización. En el PUC vienen precargadas las principales cuentas de un plan común.
 
 Crear una cuenta contable

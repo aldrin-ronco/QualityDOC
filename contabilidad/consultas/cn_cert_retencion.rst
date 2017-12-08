@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En esta interfaz podrá generar un *Certificado de retención*. Deberá seleccionar un tipo de certificado que anteriormente debe haber creado en la interfaz `Configuración de certificado de retención <../generalidades/act_certificados_ret.html>`_. 
 
 	- Un certificado de retención se expide hacia un solo tercero. Seleccionando varios terceros en la grilla, se expedirá uno para cada uno, en un reporte de varias páginas.

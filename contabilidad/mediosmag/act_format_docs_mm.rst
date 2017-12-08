@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En esta interfaz podrá definir las columnas que irán en el esquema asignado al formato del medio magnetico elegido. Esto significa que después de seleccionar alguno de los formatos de medio mágnetico que vienen predefinidos en el sistema, podrá elegir los datos que en el documento aparecerán.
 
  .. figure:: images/medios/a.png

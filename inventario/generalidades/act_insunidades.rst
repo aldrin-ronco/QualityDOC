@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Las unidades de medida nos permiten cuantificar claramente las existencias de nuestro inventario, estas nos proporcionan las
 herramientas necesarias para la correcta interpretación de las cantidades, los siguientes son algunos ejemplos de unidades de medidas :
 

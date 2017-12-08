@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En la interfaz *Configuración de certificados de retenciones* usted podrá establecer los parámetros necesarios y crear una plantilla, para dar salida a los *certificados de retención* desde su empresa a sus proveedores.
 
 	Establezca:

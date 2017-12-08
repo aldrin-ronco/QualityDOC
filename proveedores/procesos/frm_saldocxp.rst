@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar los montos a pagar que tiene su organización en el momento en que empieza a usar el sistema Quality. 
 
 	Es importante tener en cuenta que si usted ha hecho un anticipo a su proveedor, el saldo solo debe incluir lo que en este momento debe, restando aquel anticipo.

@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta operación para registrar las notas débito y crédito a sus clientes. Aunque algunas notas son generadas automáticamente (como el caso de las notas crédito por devolución de mercancía) hay notas que puede crear manualmente.
 
 	Es necesario que haya creado los conceptos necesarios en `conceptos de notas a clientes <../../../cartera/generalidades/act_conceptos_notascli.html>`_ para poder crear una nota a un cliente. 

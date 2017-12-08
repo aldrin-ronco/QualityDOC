@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Puede generar un reporte de los comprobantes contables filtrados por periodos y fuentes contables. Organice el informe por terceros. Escoja el nivel de detalle, en el arbol de cuentas, que usted prefiera.
 
 

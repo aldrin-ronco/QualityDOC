@@ -5,6 +5,8 @@ Ventas
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 
 El módulo de ventas le permite administrar y gestionar todas las operaciones relacionadas a la facturación y ventas de la empresa. 
 

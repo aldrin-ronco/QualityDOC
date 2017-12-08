@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En la opción *Entradas, salidas & transferencias de mercancías* usted podrá manejar la ubicación, la entrada o la salida de los insumos o productos que actualmente están registrados en el sistema.
 
 La opción *Entradas, salidas & transferencias de mercancías* le permitirá entre otras cosas.

@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En esta interfaz podrá generar y guardar el cierre anual contable.
 
 		.. figure:: images/cierreanual/1.png

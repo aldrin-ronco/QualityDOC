@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Un esquema se refiere a las columnas elegidas para el formato del medio magnético. En esta interfaz podrá definir las columnas que irán en el esquema, esto significa que después de seleccionar alguno de los formatos de medio mágnetico que vienen predefinidos en el sistema, podrá elegir los datos que aparecerán en el documento.
 
 

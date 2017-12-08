@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	El *Estado de resultados por centro de costo* genera de manera ordenada la forma del resultado del ejercicio durante un período de manera comparativa por centro de costo. Puede elegir el nivel de detalle que desee según el arbol de cuentas y el lapso.
 
  .. figure:: images/estadoresultados/1.png

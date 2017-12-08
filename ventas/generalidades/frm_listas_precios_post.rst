@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Consulte aquí cómo crear, modificar y eliminar *Listas de precios*. Puede tener cuantas listas de precio desee a su conveniencia, organizadas por Centro de costo. También podrá consultar cómo etiquetar productos para clasificarlos.
 
 Verá los productos ordenados para mostrar primeramente los que aún no tienen precio de venta, y luego los que ya lo tienen, en orden alfabético.

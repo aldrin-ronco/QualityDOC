@@ -16,6 +16,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Obtenga el libro mayor oficial, seleccionando un periodo de tiempo. Podrá ver los saldos actuales y los anteriores de todas sus cuentas.
 
  .. figure:: images/mayor.png

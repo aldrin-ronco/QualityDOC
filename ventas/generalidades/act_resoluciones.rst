@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Administración de resoluciones de facturación* podrá dar inicio a una resolución obtenida a través de la DIAN que le permite facturar en un rango determinado de números de factura.
 
 Puede marcar la opción en la cabecera 'Mostrar únicamente resoluciones vigentes' para que en la grilla solo aparezcan las resoluciones que no están vencidas o cuyo rango de facturación no se ha acabado.

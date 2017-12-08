@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 Esta opción le permitirá alinear la contabilidad con los procesos administrativos. Encuentre en cada pestaña la configuración de los parametros que le permitirán llevar una contabilidad sana y al día. 
 
 Aquí podrá: 

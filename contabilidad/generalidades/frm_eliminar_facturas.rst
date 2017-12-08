@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	La interfaz "Eliminación de facturas" le permitirá eliminar facturas de ventas, para ello necesitará el número exacto de la factura. No podrá eliminar facturas a las que se les haya hecho un abono, deberá primero eliminar esos abonos (eliminarlos,más no anularlos)
 
 

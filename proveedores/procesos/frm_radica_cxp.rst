@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	La radicación de una factura es la forma de darle la entrada a cuenta por pagar a proveedor. Para hacer una radicación debe existir una factura o documento. Una factura puede contener varias entradas por compra.
 
 		 	 .. figure:: images/radicacion/0.png

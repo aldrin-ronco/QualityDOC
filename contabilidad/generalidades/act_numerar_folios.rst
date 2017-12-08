@@ -16,6 +16,8 @@ Ubicación
 
 Introducción
 ============
+
+Use **ESC** para salir de las interfaces principales.
 	
 	Esta opción le permitirá imprimir la numeración requerida en los libros fiscales. Puede crear un libro para establecer un número máximo de páginas y tenerlo guardado para una próxima impresión de folios.
 

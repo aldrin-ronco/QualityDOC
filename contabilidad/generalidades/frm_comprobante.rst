@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	A través de la interfaz *Actualización de comprobantes* usted podrá realizar asientos contables manuales, listar los que el sistema hace de manera automática, editarlos y eliminarlos.
 
 Crear un comprobante contable

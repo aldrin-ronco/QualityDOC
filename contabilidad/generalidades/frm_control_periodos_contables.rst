@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En el *Cierre de periodos contables* usted podrá bloquear un periodo contables, mes a mes, para que sus comprobantes no puedan ser modificados o creados.
 
 Cerrar un periodo contable

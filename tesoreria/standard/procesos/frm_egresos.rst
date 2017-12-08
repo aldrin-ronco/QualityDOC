@@ -18,6 +18,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	En este proceso puede registrar cada egreso de dinero en su organización. Existen 4 grupos de salidas de dinero: Egresos por pago a proveedores, Egresos a terceros, Pago de facturas a proveedores, Pagos de nómina.
 
 

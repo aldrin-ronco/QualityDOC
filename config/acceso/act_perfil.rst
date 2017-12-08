@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 	Use esta interfaz para crear perfiles de usuario que determinen la cantidad de permisos que tiene hacia las distintas opciones del sistema. Puede modificar estos perfiles cuando lo desee. 
 
 		.. NOTE::

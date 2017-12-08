@@ -17,6 +17,8 @@ Ubicación
 Introducción
 ============
 
+Use **ESC** para salir de las interfaces principales.
+
 En *Estructura de almacenes de la empresa* puede configurar y crear las **Regiones** y ***centros de costo** de su compañía. Una **Región** es la agrupación de varios *Centros de costo* según su ubicación. Un *centro de costo* es el punto o los puntos de control de ingreso o egresos por conceptos, ventas, recibos, comprobantes, notas, etc. Un *Centro de costo* puede ser tratado además, como un almacén o bodega.
 
 Crear una Región
