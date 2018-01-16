@@ -1,5 +1,5 @@
 ====================
-Prestamos a Terceros
+préstamos a Terceros
 ====================
 
 Ubicación
@@ -12,7 +12,7 @@ Ubicación
  Procesos
 
 :Descripción:
-  Prestamos a Terceros
+  préstamos a Terceros
 
 
 Introducción
@@ -20,67 +20,67 @@ Introducción
 
 Use **ESC** para salir de las interfaces principales.
 
-	En este proceso podrá organizar los prestamos de confianza que hace a un tercero determinado. Una vez ha realizado el egreso puede recurrir a esta interfaz para establecer el número de cuotas y las fechas de recaudo.mbién podrá hacer los abonos a partir de aquí.
+	En este proceso podrá organizar los préstamos de confianza que hace a un tercero determinado. Una vez ha realizado el egreso puede recurrir a esta interfaz para establecer el número de cuotas y las fechas de recaudo.mbién podrá hacer los abonos a partir de aquí.
 
 
 Pre-requisitos
 ==============
 
 		- Tener un tercero creado
-		- **El concepto predefinido del egreso "prestamo a terceros" debe tener una cuenta contable asignada**
-		- `Haber hecho un egreso usando el concepto predefinido "prestamo a terceros" <../procesos/frm_egresos.html#pagos-por-conceptos-predefinidos>`_
+		- **El concepto predefinido del egreso "préstamo a terceros" debe tener una cuenta contable asignada**
+		- `Haber hecho un egreso usando el concepto predefinido "préstamo a terceros" <../procesos/frm_egresos.html#pagos-por-conceptos-predefinidos>`_
 
 
-			.. figure:: images/prestamosterceros/a.png
+			.. figure:: images/préstamosterceros/a.png
  				 :align: center
 
 
-Definir pautas de un Prestamo a terceros
+Definir pautas de un préstamo a terceros
 =========================================
 
-Para organizar un *Prestamo a terceros*, realice los siguientes pasos:
+Para organizar un *préstamo a terceros*, realice los siguientes pasos:
 
-	- Ejecute la opción "Prestamos a terceros"
+	- Ejecute la opción "préstamos a terceros"
 	- Seleccione el centro de costo donde se hizo el egreso
 	- Haga click en |wznew.bmp| *Nuevo* 
 
-			.. figure:: images/prestamosterceros/1.png
+			.. figure:: images/préstamosterceros/1.png
  				 :align: center 
 
-	- Verá una ventana nueva para la modificación de las pautas del prestamo
-	- En el campo de texto 'Cédula o NIT' presione Enter para ver el listado del Terceros cuyo prestamo aún no tiene pautas establecidas
+	- Verá una ventana nueva para la modificación de las pautas del préstamo
+	- En el campo de texto 'Cédula o NIT' presione Enter para ver el listado del Terceros cuyo préstamo aún no tiene pautas establecidas
 
-			.. figure:: images/prestamosterceros/2.png
+			.. figure:: images/préstamosterceros/2.png
  				 :align: center
 
 	- El campo 'Observación' y la cuenta contable, son de solo lectura
 	- Una vez elegido podrá entonces proceder a rellenar los campos:
 		- Iniciar recuado en esta fecha: es la primera fecha en que el cliente deberá pagar una cuota
 		- Intervalo de días: Cuantos días a partir de la fecha inicial se sumarán para la próxima fecha de corte
-		- Número de cuotas: Elija en cuantas partes se realizará el cobro de este prestamo
-	-  Haga click en |save.bmp| 'Guardar prestamo'
+		- Número de cuotas: Elija en cuantas partes se realizará el cobro de este préstamo
+	-  Haga click en |save.bmp| 'Guardar préstamo'
 
-				.. figure:: images/prestamosterceros/4.png
+				.. figure:: images/préstamosterceros/4.png
  				 :align: center
 
-Abonar a un Prestamo
+Abonar a un préstamo
 --------------------
 
-	El abono de un prestamo se realiza a través de un recibo de caja, esta interfaz sirve, más bien, para llevar un control. Cada abono se adjudica a la última fecha de corte en el calendario.
+	El abono de un préstamo se realiza a través de un recibo de caja, esta interfaz sirve, más bien, para llevar un control. Cada abono se adjudica a la última fecha de corte en el calendario.
 
 	Siga los siguientes pasos:
 
-	- Ejecute la opción "Prestamos a terceros"
+	- Ejecute la opción "préstamos a terceros"
 	- Seleccione el centro de costo donde se hizo el egreso
-	- En la grilla haga click sobre el prestamo al que desea abonar
-	- Pulse el botón 'Mostrar detalles del prestamo N #####'
+	- En la grilla haga click sobre el préstamo al que desea abonar
+	- Pulse el botón 'Mostrar detalles del préstamo N #####'
 
 
 
-			.. figure:: images/prestamosterceros/5.png
+			.. figure:: images/préstamosterceros/5.png
  				 :align: center
 
-	- Verá una pantalla similar a la de creación del prestamo
+	- Verá una pantalla similar a la de creación del préstamo
 	- Seleccione la caja o la cuenta, a donde irá el abono
 	- Sobre la grilla de las cuotas, escriba el monto del abono en el campo 'Monto total del recaudo'
 	- Presione Enter, verá como el monto ahora aparece sumado en la fila de la cuota en la grilla

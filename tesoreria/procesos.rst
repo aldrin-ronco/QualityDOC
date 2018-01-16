@@ -14,7 +14,7 @@ Procesos
   /tesoreria/standard/procesos/frm_egresos
   /tesoreria/standard/procesos/frm_caja_menor 
   /tesoreria/standard/procesos/frm_transfer_fondos 
-  /tesoreria/standard/procesos/frm_prestamos_terceros 
+  /tesoreria/standard/procesos/frm_préstamos_terceros 
 
 
 Consultas

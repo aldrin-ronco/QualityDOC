@@ -224,8 +224,8 @@ Ventas
 	-Conceptos para:
 		- Recibo para cuadre 
 		- Egreso para cuadre 
-		- Prestamos a empleados
-		- Prestamos a terceros 
+		- préstamos a empleados
+		- préstamos a terceros 
 		- Nota débito por devolución de cheques
 	- Otras opciones:
 		- Actualizar lista de precios automáticamente al comprar y transferir productos
@@ -264,7 +264,7 @@ En esta pestaña podrá modificar haciendo click en el botón |wzedit.bmp| *Modi
 
 	- El centro de costo donde se hace el gasto de nómina
 	- Cuenta contable por pagar a empleados
-	- Cuenta de prestamos a empleados
+	- Cuenta de préstamos a empleados
 	- Cuenta de vacaciones por pagar
 	- Cuenta de primas por pagar
 

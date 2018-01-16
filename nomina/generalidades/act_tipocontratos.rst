@@ -1,70 +1,58 @@
-==============================
-Actualización de impuestos IVA
-==============================
+==================================
+Actualización de tipos de contrato
+==================================
 
 Ubicación
 =========
 
 :Módulo:
- Ventas
+ Nómina
 
 :Grupo:
  Parámetros
 
 :Descripción:
-  Actualización de impuestos de IVA
+  Actualización de tipos de contrato
 
 Introducción
 ============
 
 Use **ESC** para salir de las interfaces principales.
 
-En *Actualización de impuestos de IVA* puede añadir, modificar o eliminar alguna variación del IVA necesaria para el proceso de facturación.
+La normatividad colombiana establece varios tipos de contratos para un trabajador fijo, en prueba o practicante. Cree sus propios contratos que servirán para sectorizar a los trabajadores para futuros procesos administrativos. ELija aquí los aportes y liquidaciones para cada tipo de trabajador, luego serán tomados en cuenta en los pagos de nómina.
 
-Crear un nuevo IVA
-==================
+Crear un nuevo tipo de contrato
+===============================
 
-	- Ejecute la opción *Actualización de impuestos de IVA*
+	- Ejecute la opción *Actualización de tipos de contrato*
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
-	- En la ventana emergente, coloque una descripción del nuevo impuesto en el campo de texto 
-	- En el campo númerico coloque el porcentaje del impuesto.
-	- Especifique la cuenta contable para la operación de Impuesto Generado, y debajo, la cuenta para reflejar la devolución.
-	- Especifique la cuenta contable para la operación de Impuesto Descontable, y debajo, la cuenta para reflejar la devolución.
-
-		.. NOTE::
-
-			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	- En la ventana emergente, coloque una descripción d la nueva clase en el campo de texto 'Tipo de contrato'
+	- ELija todas las liquidaciones y aportes correspondientes a este tipo de contrato laboral.  
+	- En el campo numérico coloque el porcentaje de comisión
 	- Haga click en |save.bmp| *guardar* o presione la tecla F2
 
 
-Modificar un IVA
-================
+Modificar un tipo de contrato
+=============================
 
-	- Ejecute la opción *Actualización de impuestos de IVA*
-	- Seleccione el impuesto en la grilla, haciendo click sobre él.
+	- Ejecute la opción *Actualización de tipos de contrato*
+	- Seleccione el tipo de contrato en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
  	- Haga click en |save.bmp| *guardar* o presione la tecla F2
  
 
- .. figure:: images/27.png
- 	:align: center
+Eliminar un tipo de contrato
+============================
 
-ELiminar un IVA
-===============
-
-	- Ejecute la opción *Actualización de impuestos de IVA*
-	- Seleccione el impuesto en la grilla, haciendo click sobre él.
+	- Ejecute la opción *Actualización de tipos de contrato*
+	- Seleccione el tipo de contrato en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:
 
-		No podrá eliminar una resolución que ya haya sido tomada en cuenta en un proceso de facturación.
- 
- .. figure:: images/26.png
- 	:align: center
-
+		No podrá eliminar una tipo de contrato que ya haya sido tomado en cuenta en alguna transacción.
 
 
 
