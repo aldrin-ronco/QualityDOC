@@ -1,47 +1,41 @@
 ==============================
-Actualización de impuestos IVA
+Actualización de riesgos ARL
 ==============================
 
 Ubicación
 =========
 
 :Módulo:
- Ventas
+ Nómina
 
 :Grupo:
  Parámetros
 
 :Descripción:
-  Actualización de impuestos de IVA
+  Actualización de riesgos ARL
 
 Introducción
 ============
 
 Use **ESC** para salir de las interfaces principales.
 
-En *Actualización de impuestos de IVA* puede añadir, modificar o eliminar alguna variación del IVA necesaria para el proceso de facturación.
+La normatividad colombiana establece cinco clases de riesgo para la clasificación de empresa según su actividad económica, cada una de estas clases de riesgo tiene un valor de cotización. Añada, elimine o modifique clases de riesgos, en esta interfaz.
 
-Crear un nuevo IVA
-==================
+Crear una nueva clase de margen
+===============================
 
-	- Ejecute la opción *Actualización de impuestos de IVA*
+	- Ejecute la opción *Actualización de riesgos ARL*
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
-	- En la ventana emergente, coloque una descripción del nuevo impuesto en el campo de texto 
-	- En el campo númerico coloque el porcentaje del impuesto.
-	- Especifique la cuenta contable para la operación de Impuesto Generado, y debajo, la cuenta para reflejar la devolución.
-	- Especifique la cuenta contable para la operación de Impuesto Descontable, y debajo, la cuenta para reflejar la devolución.
-
-		.. NOTE::
-
-			Sitúese sobre el listado de cuentas y presione CTRL+ENTER para iniciar la búsqueda rápida de cuentas contables
+	- En la ventana emergente, coloque una descripción d la nueva clase en el campo de texto 'Nombre del margen' 
+	- En el campo numérico coloque el porcentaje de comisión
 	- Haga click en |save.bmp| *guardar* o presione la tecla F2
 
 
-Modificar un IVA
-================
+Modificar una clase de margen
+=============================
 
-	- Ejecute la opción *Actualización de impuestos de IVA*
-	- Seleccione el impuesto en la grilla, haciendo click sobre él.
+	- Ejecute la opción *Actualización de riesgos ARL*
+	- Seleccione la clase en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
 	- Modifique lo que considere pertinente
  	- Haga click en |save.bmp| *guardar* o presione la tecla F2
@@ -50,17 +44,17 @@ Modificar un IVA
  .. figure:: images/27.png
  	:align: center
 
-ELiminar un IVA
-===============
+Eliminar una clase de margen
+============================
 
-	- Ejecute la opción *Actualización de impuestos de IVA*
-	- Seleccione el impuesto en la grilla, haciendo click sobre él.
+	- Ejecute la opción *Actualización de riesgos ARL*
+	- Seleccione la clase en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:
 
-		No podrá eliminar una resolución que ya haya sido tomada en cuenta en un proceso de facturación.
+		No podrá eliminar una clase que ya haya sido tomada en cuenta en alguna transacción.
  
  .. figure:: images/26.png
  	:align: center

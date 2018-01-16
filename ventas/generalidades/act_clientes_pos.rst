@@ -12,7 +12,7 @@ Ubicación
  Parámetros
 
 :Descripción:
-  Adminsitración de clientes
+  Administración de clientes
 
 Introducción
 ============
