@@ -12,5 +12,6 @@ Parámetros
   /nomina/generalidades/act_entidades
   /nomina/generalidades/act_porriesgoarp 
   /nomina/generalidades/act_secciones
-
+  /nomina/generalidades/act_tipocontratos
+  /nomina/generalidades/act_variables
 

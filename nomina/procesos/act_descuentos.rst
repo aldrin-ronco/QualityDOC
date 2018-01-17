@@ -52,7 +52,7 @@ Paso 1: Diferir en cuotas el préstamo
 			- Haga click en |save.bmp| *guardar*
 
 
-	Usted podrá `Re-diferir la deuda`_ cuando lo considere necesario, ya sea para saltar una cuota o para redifinir el monto de los descuentos.
+	Usted podrá `Re-diferir la deuda`_ cuando lo considere necesario, ya sea para saltar una cuota o para redefinir el monto de los descuentos.
 
 Paso 2: Visualizar el préstamo
 ******************************
@@ -70,7 +70,7 @@ Pago por adelantado de una cuota
  Si el empleado decide pagar por adelantado una cuota, en vez de esperar a que se haga el descuento automático, entonces debe realizar un recibo de ingreso. Este ingreso de dinero sustituirá la cuota marcada y su valor será el mismo de la cuota.
 
 		- En el módulo de Tesorería, ejecute la opción "Recibos de caja"
-		- Haga click en la pestaña 'Recaudo de prestamos a empleados'
+		- Haga click en la pestaña 'Recaudo de préstamos a empleados'
 		- Localice en la grilla el prestamo/empleado
 		- Haga click en los [...] 3 puntos al final de la fila
 		- Verá una lista de las cuotas del prestamo, en azul las que ya están cancelada. y en blanco las otras. 
@@ -97,7 +97,7 @@ Descuento por compra a Crédito
 Paso 1: Diferir en cuotas el préstamo
 *************************************
 	
-	Al realizar una factura a crédito apodrá elegir el monto de las cuotas y la fecha de comienzo del cobro, a este proceso se le llama "Diferir en cuotas"
+	Al realizar una factura a crédito podrá elegir el monto de las cuotas y la fecha de comienzo del cobro, a este proceso se le llama "Diferir en cuotas"
 
 		- En el módulo de Ventas, ejecute la opción "Consulta general de Facturación"
 		- Busque la factura a crédito del empleado
@@ -125,7 +125,7 @@ Pago por adelantado de una cuota
  Si el empleado decide pagar por adelantado una cuota, en vez de esperar a que se haga el descuento automático, entonces debe realizar un recibo de ingreso. Este ingreso de dinero sustituirá la cuota marcada y su valor será el mismo de la cuota.
 
 		- En el módulo de Tesorería, ejecute la opción "Recibos de caja"
-		- Haga click en la pestaña 'Recaudo de prestamos a empleados'
+		- Haga click en la pestaña 'Recaudo de préstamos a empleados'
 		- Localice en la grilla el prestamo/empleado
 		- Haga click en los [...] 3 puntos al final de la fila
 		- Verá una lista de las cuotas del prestamo, en azul las que ya están cancelada. y en blanco las otras. 
