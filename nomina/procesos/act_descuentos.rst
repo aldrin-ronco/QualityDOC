@@ -36,7 +36,7 @@ Quality permite la automatización de las deducciones en los pagos de nómina de
 Descuento por préstamo a empleado
 ==================================
 
-	Para llevar a cabo los descuentos nominales programados del pago de un empleado, por concepto de préstamos, deberá llevar a cabo el `Comprobante de Egresos  por Concepto predifinido de préstamo a empleado`_ y realizar los dos siguientes dos pasos:
+	Para llevar a cabo los descuentos nominales programados del pago de un empleado, por concepto de préstamos, deberá llevar a cabo el `Comprobante de Egresos  por Concepto predefinido de préstamo a empleado`_ y realizar los dos siguientes dos pasos:
 
 Paso 1: Diferir en cuotas el préstamo
 *************************************
@@ -61,7 +61,7 @@ Paso 2: Visualizar el préstamo
 
 	- En el módulo de Nómina, ejecute la opción "Descuentos programados de nómina"
 	- Realice la búsqueda del empleado al cual realizó el diferido en cuotas del paso 1
-	- Aquí podrá visualizar todas las deducciones del pago de la quincena próxima, de todas las cuotas e incluso puede, al igual que en la ventana 'Administrador general de comrpobantes de egresos', puede re-diferir aquí la deuda.
+	- Aquí podrá visualizar todas las deducciones del pago de la quincena próxima, de todas las cuotas e incluso puede, al igual que en la ventana 'Administrador general de comprobantes de egresos', puede re-diferir aquí la deuda.
 	
 
 Pago por adelantado de una cuota
