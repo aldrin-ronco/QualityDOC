@@ -59,9 +59,15 @@ Para crear un empleado realice los siguientes pasos:
  			- Sección
  			- Cargo que desempeña - Puesto
 
- 		-**Transacciones:** Elija en cuales transacciones este empleado deberá se tomado en cuenta, por ejemplo: Un subsidio o viáticos.
+ 		-**Transacciones:** Elija en cuales transacciones este empleado deberá se tomado en cuenta, estas transacciones serán siempre fijas en cada liquidación de nomina. 
 
- 		- **Parámetros:** Aquí puede establecer el sueldo del trabajador o el anticipo de nómina.
+ 		.. NOTE::
+
+ 			Recuerde que en el momento de realizar el pago de la nómina, podrá agregar otras transacciones; estas transacciones agregadas en el momento, no estarán marcadas para el próximo pago, son temporales. 
+
+ 		- **Parámetros:** Aquí puede darle valor a las variables personalizadas (diferentes para cada empleado). En la columna 'Nombre del parámetro' aparecerán todas las 'variables personalizadas' y en la columna 'Tipo de valor' podrá elegir para cada parámetro un valor fijo, independiente, o una variable global; en cada lista aparecen todas las variables globales creadas.
+
+ 		Use los parámetros para definir variables que serán usadas en las formulas de las transacciones de nómina.
 
  		-**Contabilización:** Parametrice las cuentas contables que se ven afectadas por las transacciones relacionadas al empleado. Haga click sobre la casilla de la columna 'Cta Contable' que desea cambiar y luego presione Enter.
 
