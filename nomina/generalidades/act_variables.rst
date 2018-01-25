@@ -33,8 +33,8 @@ Crear una variable o constante
 	- En la ventana emergente, en el campo 'Nombre del parametro' establezca un nombre para su variable
 	- En el campo 'Llave del parametro' establezca un identificador que usará a la hora de crear una formula
 	- Seleccione si su variable será:
-		- **Global:** En este caso, use el campo numérico 'valor del parámetro' para establecer el valor constante de la variable
-		- **Personalizado:** Una variable personalizada solo tiene un nombre y una llave, su valor será exigido al momento de resolver la formula
+		- **Global:** En este caso, use el campo numérico 'valor del parámetro' para establecer el valor constante de la variable. 
+		- **Personalizado:** Una variable personalizada solo tiene un nombre y una llave, su valor es establecido en la pestaña 'Parámetros' de la actualización del empleado. La formula de la variable personalizada debe irvacía.
 		- **Basada en transacciones:** Seleccione un 'tipo de transacción' para desplegar la lista de transacciones de nómina. Luego, marque las operaciones de la lista que sumarán para el monto de la variable. 
 	- Ha click en |save.bmp| *Guardar*
 

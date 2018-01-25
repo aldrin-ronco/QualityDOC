@@ -19,7 +19,8 @@ Introducción
 
 Use **ESC** para salir de las interfaces principales.
 
-Use las secciones de nómina para agrupar las transacciones de nómina. En esta interfaz podrá crear, modificar y elminar secciones de nómina.
+Use las secciones de nómina para agrupar las transacciones de nómina. El agrupara los empleados le permitirá realizar buenas prácticas en cuanto a la contabilidad. En esta interfaz podrá crear, modificar y elminar secciones de nómina.
+
 
 Crear una Sección de Nómina
 ===========================
@@ -36,7 +37,7 @@ Modificar una Sección de Nómina
 ===============================
 
 	- Ejecute la opción *Actualización de secciones de nómina*
-	- Seleccione una Sección de la grilla
+	- Seleccione una Sección de la lista
 	- Haga click en el botón |edit.bmp|
 	- En el campo de texto *Nombre de la sección* digite el nuevo nombre de la sección
 	- Haga click en |save.bmp|
@@ -47,10 +48,20 @@ Eliminar una Sección de Nómina
 ==============================
 
 	- Ejecute la opción *Actualización de secciones de nómina*
-	- Seleccione una Sección de la grilla
+	- Seleccione una Sección de la lista
 	- Haga click en el botón |delete.bmp|
 	- En la ventana de confirmación haga click en 'Sí'
 
+Asignar una cuenta contable a una transacción
+=============================================
+
+	Las cuentas contables de las transacciones se eligen de acuerdo a la sección, de esta manera usted puede establecer una cuenta, por ejemplo, para el pago de los empleados del sector administrativo y otra para el sector de producción.
+
+	- Ejecute la opción *Actualización de secciones de nómina*
+	- Haga click en el botón |edit.bmp|
+	- Seleccione una transacción de la grilla, y haga doble click en el campo 'Cta Contable' y luego presione Enter
+	- Seleccione con doble click o con Enter una cuenta de la lista en la ventana emergente
+	- Haga click en |save.bmp|
 
 
 Liquidación de aportes fiscales y provisiones de seguridad social
