@@ -9,7 +9,7 @@ Ubicación
  Nómina
 
 :Grupo:
- Parámetros
+ Procesos
 
 :Descripción:
   Descuentos de nómina

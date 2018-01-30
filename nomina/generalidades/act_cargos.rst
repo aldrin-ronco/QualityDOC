@@ -53,7 +53,7 @@ Para modificar una *Cargo* siga los siguientes pasos:
 - El sistema abrirá una ventana con las carácteristicas del *cargo* seleccionado
 - Realice los cambios y confirme presionando el botón *Guardar* |save.bmp|
 
-Eliminar Uun cargo
+Eliminar un cargo
 =========================
 
 Para eliminar un *Cargo* siga los siguientes pasos:
