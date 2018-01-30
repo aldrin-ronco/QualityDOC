@@ -11,6 +11,7 @@ Procesos
 
 
   /nomina/procesos/act_descuentos
+  /nomina/procesos/cn_liq_nomina
 
 
 Consultas
