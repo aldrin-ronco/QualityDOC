@@ -36,7 +36,7 @@ Para crear un empleado realice los siguientes pasos:
  	- Se desplegará una ventana emergente donde podrá dar cabida a los datos del empleado:
 
 
- 		- **Datos básicos**: Nombres (si es Régimen Común) o Razón social, teléfonos, dirección
+ 		- **Datos básicos**: Nombres , teléfonos, dirección
  		- *Estado actual del ciudadano* 
  			- Activo
  			- Inactivo
@@ -50,7 +50,7 @@ Para crear un empleado realice los siguientes pasos:
 
  			- Pensión
  			- EPS
- 			- ARP
+ 			- ARL
  			- MARGEN
  			- Caja de Compensación
  			- Cesantías
@@ -82,7 +82,7 @@ Para crear un empleado realice los siguientes pasos:
 
  			 
 
-	Para guardar el cliente haga click en |save.bmp| *Guardar* o presione F2
+	Para guardar el empleado haga click en |save.bmp| *Guardar* o presione F2
 
 
 

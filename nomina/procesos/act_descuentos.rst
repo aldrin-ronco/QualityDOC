@@ -81,7 +81,7 @@ Pago por adelantado de una cuota
 Abonar a la deuda sin reducir las cuotas
 ----------------------------------------
 
-	Si ya ha realizado un `Pago por adelantado de una cuota`_ pero no quiere 'saltar' una o varias cuotas, entonces debe - `Re-diferir la deuda`_ 
+	Si ya ha realizado un *Pago por adelantado de una cuota* pero no quiere 'saltar' una o varias cuotas, entonces debe - `Re-diferir la deuda`_ 
 
 
 Aplazar un descuento de cuota
@@ -136,7 +136,7 @@ Pago por adelantado de una cuota
 Abonar a la deuda sin reducir las cuotas
 ----------------------------------------
 
-	Si ya ha realizado un `Pago por adelantado de una cuota`_ pero no quiere 'saltar' una o varias cuotas, entonces debe - `Re-diferir la deuda`_ 
+	Si ya ha realizado un *Pago por adelantado de una cuota* pero no quiere 'saltar' una o varias cuotas, entonces debe - `Re-diferir la deuda`_ 
 
 
 Aplazar un descuento de cuota
