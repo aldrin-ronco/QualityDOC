@@ -15,9 +15,9 @@ Parámetros
   /nomina/generalidades/act_tipocontratos
   /nomina/generalidades/act_variables
   /nomina/generalidades/act_terxtran
-  /nomina/generalidades/act_terxtran_aportes
+  /nomina/generalidades/act_terxtrans_aportes
   /nomina/generalidades/act_nom_unidades
   /nomina/generalidades/act_cargos
-  /nomina/generalidades/act_revertir_procesos
+  /nomina/generalidades/frm_revertir_procesos
   
 
