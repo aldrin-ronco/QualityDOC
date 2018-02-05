@@ -34,4 +34,5 @@ Consultas
   /ventas/standard/consultas/cn_clientevsproducto
   /ventas/standard/consultas/cn_productovscliente
   /ventas/standard/consultas/cn_anticipos_devs
+  /ventas/standard/consultas/permisos
   

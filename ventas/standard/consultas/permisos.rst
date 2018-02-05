@@ -9,9 +9,9 @@ Es probable que algunas aplicaciones de software locales no tengan estos permiso
 
 **Quality System** permite enviar facturas a sus clientes desde la aplicación. Para esto, es necesario que habilite los permisos necesarios.
 
-*************************************************************
-Para habilitar el acceso a Quality System, siga estos pasos:
-*************************************************************
+
+**Para habilitar el acceso a Quality System, siga estos pasos:**
+
 
 
 - Abra la cuenta de correo Gmail a la cual desea acceder **Quality System**. Está cuenta será usada como remitente.
