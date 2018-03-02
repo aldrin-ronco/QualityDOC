@@ -29,13 +29,24 @@ Crear una variable o constante
 ==============================
 
 	- Ejecute la opción *Definición de Variables y Constantes de Nómina*
+
+		 .. figure:: images/h/0.jpg
+		   :align: center
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
+		 .. figure:: images/h/01.jpg
+		   :align: center
 	- En la ventana emergente, en el campo 'Nombre del parametro' establezca un nombre para su variable
 	- En el campo 'Llave del parametro' establezca un identificador que usará a la hora de crear una formula
 	- Seleccione si su variable será:
 		- **Global:** En este caso, use el campo numérico 'valor del parámetro' para establecer el valor constante de la variable. 
+		 .. figure:: images/h/1.jpg
+		   :align: center
 		- **Personalizado:** Una variable personalizada solo tiene un nombre y una llave, su valor es establecido en la pestaña 'Parámetros' de la actualización del empleado. La formula de la variable personalizada debe irvacía.
+		 .. figure:: images/h/2.jpg
+		   :align: center
 		- **Basada en transacciones:** Seleccione un 'tipo de transacción' para desplegar la lista de transacciones de nómina. Luego, marque las operaciones de la lista que sumarán para el monto de la variable. 
+		 .. figure:: images/h/3.jpg
+		   :align: center
 	- Ha click en |save.bmp| *Guardar*
 
 Modificar una variable
@@ -44,6 +55,8 @@ Modificar una variable
 	- Ejecute la opción *Definición de Variables y Constantes de Nómina*
 	- En la grilla haga click sobre la variable a modificar
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
+		 .. figure:: images/h/4.jpg
+		   :align: center
 	- Modifique lo que considere pertinente
  	- Haga click en |save.bmp| *guardar* o presione la tecla F2
  
@@ -55,6 +68,8 @@ Eliminar una variable
 	- Ejecute la opción *Definición de Variables y Constantes de Nómina*
 	- Seleccione la variable en la grilla, haciendo click sobre ella.
 	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
+		 .. figure:: images/h/5.jpg
+		   :align: center
 	- Oprima 'Sí' en la ventana de confirmación
 
 .. |export1.gif| image:: /_images/generales/export1.gif

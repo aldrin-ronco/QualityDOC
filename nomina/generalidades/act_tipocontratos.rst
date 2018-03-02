@@ -25,10 +25,22 @@ Crear un nuevo tipo de contrato
 ===============================
 
 	- Ejecute la opción *Actualización de tipos de contrato*
+
+		 .. figure:: images/e/0.jpg
+		   :align: center
+
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
+
+		 .. figure:: images/e/1.jpg
+		   :align: center
+
+
 	- En la ventana emergente, coloque una descripción d la nueva clase en el campo de texto 'Tipo de contrato'
 	- ELija todas las liquidaciones y aportes correspondientes a este tipo de contrato laboral.  
 	- En el campo numérico coloque el porcentaje de comisión
+		 .. figure:: images/e/1a.jpg
+		   :align: center
+
 	- Haga click en |save.bmp| *guardar* o presione la tecla F2
 
 
@@ -38,6 +50,8 @@ Modificar un tipo de contrato
 	- Ejecute la opción *Actualización de tipos de contrato*
 	- Seleccione el tipo de contrato en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
+		 .. figure:: images/e/2.jpg
+		   :align: center
 	- Modifique lo que considere pertinente
  	- Haga click en |save.bmp| *guardar* o presione la tecla F2
  
@@ -48,6 +62,8 @@ Eliminar un tipo de contrato
 	- Ejecute la opción *Actualización de tipos de contrato*
 	- Seleccione el tipo de contrato en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
+		 .. figure:: images/e/3.jpg
+		   :align: center
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:

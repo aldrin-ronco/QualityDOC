@@ -19,7 +19,7 @@ Introducción
 
 Use **ESC** para salir de las interfaces principales.
 
-En *Administración de Empleados* podrá crear nuevos empleados, visualizarlos en forma de grilla, eliminarlos o modificar sus datos personales. Cada empleado tiene un código interno asignado y puede buscarlo desde la grilla usando el nombre o documento.
+En *Administración de Empleados* podrá crear nuevos empleados, visualizARPos en forma de grilla, eliminARPos o modificar sus datos personales. Cada empleado tiene un código interno asignado y puede buscARPo desde la grilla usando el nombre o documento.
 
 Crear un empleado
 =================
@@ -28,16 +28,19 @@ Para crear un empleado realice los siguientes pasos:
  	
  	- Ejecute la opción *Administración de empleados*
 
- 		 .. figure:: images/0.png
+ 		 .. figure:: images/a/0.jpg
    			:align: center
 
  	- En el pie de la ventana pulse sobre el botón |wznew.bmp| *nuevo*
+
+ .. figure:: images/a/1.jpg
+     :align: center
 
  	- Se desplegará una ventana emergente donde podrá dar cabida a los datos del empleado:
 
 
  		- **Datos básicos**: Nombres , teléfonos, dirección
- 		- *Estado actual del ciudadano* 
+		- *Estado actual del ciudadano* 
  			- Activo
  			- Inactivo
  		- *Documento de identificación*: Si este número de identificación ha sido usado en algún otro apartado (vendedores, proveedores, etc) entonces el sistema desplegará la información registrada de esta persona.
@@ -46,30 +49,46 @@ Para crear un empleado realice los siguientes pasos:
 
  			Datos obligatorios: Primer nombre, primer apellido, departamento, municipio y número de documento.
 
+ 			 .. figure:: images/a/1a.jpg
+     			:align: center
+
+
  		- **Entidades y otros**: Seleccione las entidades y otros perfiles del empleado según convenga, tales como:
 
  			- Pensión
  			- EPS
- 			- ARL
+ 			- ARP
  			- MARGEN
  			- Caja de Compensación
  			- Cesantías
  			- Tipo de Contrato
  			- Centro de Costo
- 			- Sección
+ 			- Sección - **Es obligatoria para que el empleado pueda recibir la liquidación de nómina.**
  			- Cargo que desempeña - Puesto
 
- 		-**Transacciones:** Elija en cuales transacciones este empleado deberá se tomado en cuenta, estas transacciones serán siempre fijas en cada liquidación de nomina. 
+ 			 .. figure:: images/a/1b.jpg
+     			:align: center
+
+ 		-**Transacciones:** Elija en cuales transacciones este empleado deberá se tomado en cuenta, estas transacciones serán siempre fijas en cada liquidación de nomina. Todo empleado debe tener transacciones para poder recibir la liquidación de nómina.
 
  		.. NOTE::
 
  			Recuerde que en el momento de realizar el pago de la nómina, podrá agregar otras transacciones; estas transacciones agregadas en el momento, no estarán marcadas para el próximo pago, son temporales. 
 
- 		- **Parámetros:** Aquí puede darle valor a las variables personalizadas (diferentes para cada empleado). En la columna 'Nombre del parámetro' aparecerán todas las 'variables personalizadas' y en la columna 'Tipo de valor' podrá elegir para cada parámetro un valor fijo, independiente, o una variable global; en cada lista aparecen todas las variables globales creadas.
+ 		 	.. figure:: images/a/1c.jpg
+     			:align: center
 
- 		Use los parámetros para definir variables que serán usadas en las formulas de las transacciones de nómina.
+ 		- **Parámetros:** Aquí puede dARPe valor a las variables personalizadas (diferentes para cada empleado). En la columna 'Nombre del parámetro' aparecerán todas las 'variables personalizadas' y en la columna 'Tipo de valor' podrá elegir para cada parámetro un valor fijo, independiente, o una variable global; en cada lista aparecen todas las variables globales creadas. 
+
+ 		Use los parámetros para definir variables que serán usadas en las formulas de las transacciones de nómina. Ningún empleado puede tener parámetros en blanco a la hora de la liquidación de nómina.
+
+
+ 			 .. figure:: images/a/1d.jpg
+     			:align: center
 
  		-**Contabilización:** Parametrice las cuentas contables que se ven afectadas por las transacciones relacionadas al empleado. Haga click sobre la casilla de la columna 'Cta Contable' que desea cambiar y luego presione Enter.
+
+
 
  		-**Cont aportes y provisiones:** elija las cuentas contables debito y crédito para los aportes y provisiones. Haga click en la casilla correspondiente a la columna débito o crédito, de acuerdo a la naturaleza del movimiento, y luego presione Enter para elegir la cuenta.
 
@@ -78,9 +97,15 @@ Para crear un empleado realice los siguientes pasos:
  			- Fecha de Nacimiento
  			- Email
 
+ 			 .. figure:: images/a/1e.jpg
+     			:align: center
+
+
  		-**Fechas:** Aquí puede obtener la fecha de ingreso del empleado y la fecha de sus últimas vacaciones.
 
- 			 
+  			 .. figure:: images/a/1f.jpg
+     			:align: center
+
 
 	Para guardar el empleado haga click en |save.bmp| *Guardar* o presione F2
 
@@ -92,7 +117,7 @@ Eliminar un empleado
  	- Seleccione haciendo click a un empleado en la grilla
  	- Presione el botón |delete.bmp| *eliminar* al pie de la ventana
 
-		 .. figure:: images/2.png
+		 .. figure:: images/a/2.jpg
 		   :align: center
 
  	- En el cuadro de confirmación presiones 'Sí'
@@ -108,7 +133,7 @@ Modificar un empleado
  	- Seleccione haciendo click a un empleado en la grilla
  	- Presione el botón |wzedit.bmp| *modificar* al pie de la ventana
 		 
-		 .. figure:: images/3.png
+		 .. figure:: images/a/3.jpg
 		   :align: center
 
  	- Aparecerá una ventana donde podrá cambiar los datos del empleados que necesite, y dejar los que considere ya están bien.

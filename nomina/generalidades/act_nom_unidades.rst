@@ -33,10 +33,17 @@ Crear Unidad de Medida
 Para crear una *unidad de medida* siga los siguientes pasos:
 
 - Ejecute la opción *Unidades de medida para transacciones*
+
+		 .. figure:: images/h/0.jpg
+		   :align: center
+
 - Haga clic en el botón *Nuevo* |wznew.bmp|
 - El sistema abrirá una ventana solicitando la siguiente información
 
   - Nombre de la unidad de medida (Ejemplo : UNIDAD)
+
+		 .. figure:: images/j/1.jpg
+		   :align: center
 
 - LLene los datos solicitados y confirme presionando el botón *Guardar* |save.bmp|
 
@@ -49,6 +56,10 @@ Para modificar una *unidad de medida* siga los siguientes pasos:
 - Ejecute la opción *Unidades de medida para transacciones*
 - Seleccione la *unidad de medida* que desea modificar haciendo click sobre ella
 - Haga click en el botón *Modificar* |wzedit.bmp|
+
+		 .. figure:: images/j/2.jpg
+		   :align: center
+
 - El sistema abrirá una ventana con las carácteristicas de la *unidad de medida* seleccionada
 - Realice los cambios y confirme presionando el botón *Guardar* |save.bmp|
 
@@ -60,6 +71,10 @@ Para eliminar una *unidad de medida* siga los siguientes pasos:
 - Ejecute la opción *Unidades de medida para transacciones*
 - Seleccione la *unidad de medida* que desea modificar haciendo click sobre ella
 - Haga click en el botón *Eliminar* |delete.bmp|
+
+		 .. figure:: images/j/3.jpg
+		   :align: center
+
 - El sistema pedirá que confirme la intención de eliminar el registro
 - Confirme para proceder con el borrado
 

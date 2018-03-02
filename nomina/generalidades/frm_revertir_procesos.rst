@@ -29,11 +29,18 @@ Realizar una reversión de cierre de nómina
 ==========================================
 
 	- Para realizar una reversión, ejecute la opción *Reversión de cierres de nómina*
+
+		 .. figure:: images/m/0.jpg
+		   :align: center
+
 	- Elija la sección, el año y el mes en las listas. 
 	- En la ventana verá información pertinente acerca del proceso:
 		- El botón a la derecha, le indica cual es el proceso que va a revertir (quincena, provisión, etc)
 		- En la parte inferior, verá los procesos pertenecientes al mes con un checkbox de solo lectura. Este check indica, si está marcado, que es un proceso vigente. Si el cuadro del check no está marcado, el proceso ha sido revertido.
 	- Presione el botón para revertir el último proceso de la cadena (el último que tenga check). Deberá presionar el botón para revertir cada uno de los 4 procesos en el mes.
+
+		 .. figure:: images/m/1.jpg
+		   :align: center
 
 
 .. |export1.gif| image:: /_images/generales/export1.gif

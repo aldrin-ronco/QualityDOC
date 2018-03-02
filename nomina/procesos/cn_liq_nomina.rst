@@ -27,11 +27,24 @@ Liquidar Nómina
 ===============
 
 	- Ejecute la opción *Novedades y liquidación de nómina*
+
+		 .. figure:: images/n/0.jpg
+		   :align: center
+
 	- Seleccione un centro de costo en la lista 'Centro de costo'
+	- Seleccione la Sección de nómina. La sección debe tener empleados agregados.
 	- Marque la opción **Liquidar nómina** en el panel 'qué proceso desea realizar'
 	- Solo podrá liquidar el último periodo pendiente. Es decir, si su última liquidación fue del 15-30 de enero de 2018, su actual liquidación será 1-15 de febrero de 2018. 
 	- Presione |btn_ok.bmp| para realizar la liquidación. Ahora la nómina ha sido calculada y puede observar el detalle por empleado y hacer cambios en los montos.
-	- Presione |save.bmp| para cerrar la operación.
+		 .. figure:: images/m/1.jpg
+		   :align: center
+	- Presione |save.bmp| para cerrar la operación. 
+		 .. figure:: images/m/2.jpg
+		   :align: center
+
+	.. NOTE:
+
+	No podrá realizar la operación si los empleados no tienen transacciones agregadas o si sus parámetros están en blanco.
 
 
 Consultar Nómina
@@ -41,12 +54,16 @@ Consultar Nómina
 
 	- Ejecute la opción *Novedades y liquidación de nómina*
 	- Seleccione un centro de costo en la lista 'Centro de costo'
+	- Seleccione la Sección de nómina. La sección debe tener empleados agregados.
 	- Marque la opción **Consultar nómina** en el panel 'qué proceso desea realizar' 
-	- En la segunda línea de opciones encontrará: **sección de nómina**|**año**|**Periodo a Consultar**| - Elija en cada lista los identificadores de la nómina que desea liquidar, ejemplo:
+	- En la segunda línea de opciones encontrará: **sección de nómina**|**año**|**Periodo a Consultar**| - Elija en cada lista los identificadores de la nómina que desea consultar, ejemplo:
 
 		**| Administrativo | 2018 | 1 - 15 de enero de 2018|**
 
 	- Presione |btn_ok.bmp|
+	
+		 .. figure:: images/m/1.jpg
+		   :align: center
 
 Consultar detalle de nómina por empleado
 ========================================

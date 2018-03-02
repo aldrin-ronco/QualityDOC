@@ -1,5 +1,5 @@
 ==============================
-Actualización de riesgos ARL
+Actualización de riesgos ARP
 ==============================
 
 Ubicación
@@ -12,7 +12,7 @@ Ubicación
  Parámetros
 
 :Descripción:
-  Actualización de riesgos ARL
+  Actualización de riesgos ARP
 
 Introducción
 ============
@@ -24,9 +24,20 @@ La normatividad colombiana establece cinco clases de riesgo para la clasificaci�
 Crear una nueva clase de margen
 ===============================
 
-	- Ejecute la opción *Actualización de riesgos ARL*
+	- Ejecute la opción *Actualización de riesgos ARP*
+
+		 .. figure:: images/c/0.jpg
+		   :align: center
+
 	- En el pie de la ventana haga click en |wznew.bmp| *nuevo*
+
+		 .. figure:: images/c/1.jpg
+		   :align: center
+
 	- En la ventana emergente, coloque una descripción d la nueva clase en el campo de texto 'Nombre del margen' 
+
+		 .. figure:: images/c/1a.jpg
+		   :align: center
 	- En el campo numérico coloque el porcentaje de comisión
 	- Haga click en |save.bmp| *guardar* o presione la tecla F2
 
@@ -34,9 +45,12 @@ Crear una nueva clase de margen
 Modificar una clase de margen
 =============================
 
-	- Ejecute la opción *Actualización de riesgos ARL*
+	- Ejecute la opción *Actualización de riesgos ARP*
 	- Seleccione la clase en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |wzedit.bmp| *modificar*
+		 .. figure:: images/c/2.jpg
+		   :align: center
+
 	- Modifique lo que considere pertinente
  	- Haga click en |save.bmp| *guardar* o presione la tecla F2
  
@@ -47,9 +61,13 @@ Modificar una clase de margen
 Eliminar una clase de margen
 ============================
 
-	- Ejecute la opción *Actualización de riesgos ARL*
+	- Ejecute la opción *Actualización de riesgos ARP*
 	- Seleccione la clase en la grilla, haciendo click sobre él.
 	- En el pie de la ventana haga click en |delete.bmp| *eliminar*
+
+		 .. figure:: images/c/3.jpg
+		   :align: center
+
 	- Oprima 'Sí' en la ventana de confirmación
 
 	.. Note:

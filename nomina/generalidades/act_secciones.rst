@@ -26,7 +26,15 @@ Crear una Sección de Nómina
 ===========================
 
 	- Ejecute la opción *Actualización de secciones de nómina*
+
+		 .. figure:: images/d/0.jpg
+		   :align: center
+
 	- Haga click en el botón |plus.bmp|
+
+		 .. figure:: images/d/1.jpg
+		   :align: center
+
 	- En el campo de texto *Nombre de la sección* digite el nombre de la sección a crear
 	- Haga click en |save.bmp|
 
@@ -39,6 +47,9 @@ Modificar una Sección de Nómina
 	- Ejecute la opción *Actualización de secciones de nómina*
 	- Seleccione una Sección de la lista
 	- Haga click en el botón |edit.bmp|
+		 .. figure:: images/c/2.jpg
+		   :align: center
+
 	- En el campo de texto *Nombre de la sección* digite el nuevo nombre de la sección
 	- Haga click en |save.bmp|
 
@@ -50,6 +61,8 @@ Eliminar una Sección de Nómina
 	- Ejecute la opción *Actualización de secciones de nómina*
 	- Seleccione una Sección de la lista
 	- Haga click en el botón |delete.bmp|
+		 .. figure:: images/c/3.jpg
+		   :align: center
 	- En la ventana de confirmación haga click en 'Sí'
 
 Asignar una cuenta contable a una transacción
@@ -59,6 +72,10 @@ Asignar una cuenta contable a una transacción
 
 	- Ejecute la opción *Actualización de secciones de nómina*
 	- Haga click en el botón |edit.bmp|
+
+		 .. figure:: images/c/2.jpg
+		   :align: center
+		   
 	- Seleccione una transacción de la grilla, y haga doble click en el campo 'Cta Contable' y luego presione Enter
 	- Seleccione con doble click o con Enter una cuenta de la lista en la ventana emergente
 	- Haga click en |save.bmp|
