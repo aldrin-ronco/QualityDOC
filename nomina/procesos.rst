@@ -9,10 +9,9 @@ Procesos
   :maxdepth: 2
   :numbered:
 
-
-  /nomina/procesos/act_descuentos
   /nomina/procesos/cn_liq_nomina
-
+  /nomina/procesos/act_descuentos
+  /nomina/procesos/frm_liq_aportes
 
 Consultas
 ---------

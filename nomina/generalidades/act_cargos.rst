@@ -34,7 +34,15 @@ Crear un Cargo
 Para crear un *Cargo* siga los siguientes pasos:
 
 - Ejecute la opción *Administrador de cargos*
+
+		 .. figure:: images/k/0.jpg
+		   :align: center
+
 - Haga clic en el botón *Nuevo* |wznew.bmp|
+
+		 .. figure:: images/k/1.jpg
+		   :align: center
+
 - El sistema abrirá una ventana solicitando la siguiente información
 
   - Nombre del cargo (Ejemplo : contador)
@@ -50,6 +58,10 @@ Para modificar una *Cargo* siga los siguientes pasos:
 - Ejecute la opción *Administrador de cargos*
 - Seleccione el *cargo* que desea modificar haciendo click sobre él
 - Haga click en el botón *Modificar* |wzedit.bmp|
+
+		 .. figure:: images/k/2.jpg
+		   :align: center
+
 - El sistema abrirá una ventana con las carácteristicas del *cargo* seleccionado
 - Realice los cambios y confirme presionando el botón *Guardar* |save.bmp|
 
@@ -61,6 +73,10 @@ Para eliminar un *Cargo* siga los siguientes pasos:
 - Ejecute la opción *Administrador de cargos*
 - Seleccione el *Cargo* que desea modificar haciendo click sobre él
 - Haga click en el botón *Eliminar* |delete.bmp|
+
+		 .. figure:: images/k/3.jpg
+		   :align: center
+
 - El sistema pedirá que confirme la intención de eliminar el registro
 - Confirme para proceder con el borrado
 

@@ -24,7 +24,7 @@ En esta interfaz usted podrá adjudicar un tercero y convertirlo en una Entidad 
 Las entidades de nómina pueden ser:
 
 	- EPS
-	- ARL
+	- ARP
 	- PENSIONES
 	- CESANTIAS
 	- CAJAS DE COMPESACIÓN
@@ -38,7 +38,16 @@ Añadir una entidad de nómina
 ============================
 
 	- Ejecute la opción "Actualización de entidades de nómina"
-	- Seleccione la pestaña de la familia de la entidad a añadir (EPS, ARL, PENSIONES, etc)
+
+
+		 .. figure:: images/b/0.jpg
+		   :align: center
+
+	- Seleccione la pestaña de la familia de la entidad a añadir (EPS, ARP, PENSIONES, etc)
+
+		 .. figure:: images/b/1.jpg
+		   :align: center
+		   
 	- Haga click en el botón |buscar.bmp| *Buscar*
 	- En la nueva ventana haga doble click sobre el tercero-entidad
 	- Verá el nombre del tercero en el campo de texto superior de la ventanilla, al lado del botón |buscar.bmp| *buscar*
@@ -46,8 +55,14 @@ Añadir una entidad de nómina
 
 
 
+Eliminar una entidad de nómina
+==============================
+	
 
-
+	- Ejecute la opción "Actualización de entidades de nómina"
+	- Seleccione la pestaña de la familia de la entidad a eliminar (EPS, ARP, PENSIONES, etc)
+	- Haga click sobre la entidad en la grilla y presione SUPR
+	- En el mensaje de confirmación pulse 'Sí'
 
 
 

@@ -28,7 +28,15 @@ Asignar un tercero a una transacción
 ====================================
 
 	- Ejecute la opción *Configuración de terceros para contabilización de aportes y provisiones*
+
+		 .. figure:: images/l/0.jpg
+		   :align: center
+
 	- Verá una grilla con los conceptos relacionados a los aportes y provisiones en la columna 'Nombre del concepto', y en la columna 'Terceros relacionados' habrá una lista de terceros para cada transacción. Seleccione el tercero apropiado, por ejemplo: la ARP puede estar asignado al NIT de la ARP.
+
+		 .. figure:: images/l/1.jpg
+		   :align: center
+
 	- Haga click en el botón |save.bmp| *Guardar*
 
 Agregar otros terceros
@@ -36,10 +44,24 @@ Agregar otros terceros
 
 	- Ejecute la opción *Configuración de terceros para contabilización de aportes y provisiones*
 	- Haga click en el botón 'Administrar otros terceros'
-	- Verá una grilla donde se listan los terceros personalizados. El proceso es simple, haga click en |find.bmp| y elija un tercero del listado, haciendo doble click sobre el. 
-	- El nombre del tercero aparecerá en el cuadro de texto superior. Haga click en |plus.bmp| para agregarlo a la grilla.
+
+		 .. figure:: images/l/2.jpg
+		   :align: center
+
+	- Verá una grilla donde se listan los terceros personalizados. El proceso es simple, haga click en |buscar.bmp| y elija un tercero del listado, haciendo doble click sobre el. 
+
+		 .. figure:: images/l/3.jpg
+		   :align: center
+
+	- El nombre del tercero aparecerá en el cuadro de texto superior. Haga click en |plus.bmp| para agregARPo a la grilla.
+
+		 .. figure:: images/l/4.jpg
+		   :align: center
+
 	- Ahora el tercero estará disponible para ser asignado a un aporte o provisión.
 
+		 .. figure:: images/l/5.jpg
+		   :align: center
 
 --------------------------------------------
 

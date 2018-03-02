@@ -52,7 +52,7 @@ Pasos para crear una toma de inventario
 	.. figure:: images/27.png
    		:align: center
 
-   	.. figure:: images/28.png
+   	.. figure:: images/28.jpg
    		:align: center
 
   Configuración nueva toma

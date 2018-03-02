@@ -27,8 +27,14 @@ Asignar un tercero a una transacción
 ====================================
 
 	- Ejecute la opción *Configuración de terceros por transacción*
+		 .. figure:: images/i/0.jpg
+		   :align: center
 	- Seleccione la Sección de empleados en la lista superior. Recuerde que las transacciones son diferentes para cada sección.
 	- Verá una grilla con las transacciones, la unidad respectiva a la transacción, y en la columna 'Terceros relacionados' habrá una lista de terceros para cada transacción. Seleccione el tercero apropiado, por ejemplo: Un sueldo puede estar asignado al documento de identificación del empleado.
+
+		 .. figure:: images/h/1.jpg
+		   :align: center
+
 	- Haga click en el botón |save.bmp| *Guardar*
 
 

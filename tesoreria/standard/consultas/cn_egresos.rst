@@ -93,7 +93,7 @@ Para Modificar un egreso:
 
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Hag click en |export1.gif| al final de la fila del reporte y luego haga click en "Modificar egreso #######"
-	- Verá una ventana similar a la de "Comprobante de egresos" donde encontrará algunos datos precargados. Puedo modificar lo que necesite.
+	- Verá una ventana similar a la de "Comprobante de egresos" donde encontrará algunos datos precargados. Puede modificar lo que necesite.
 	- Presione F2 para guardar los cambios.
 
 			.. figure:: images/consultaegresos/2.png
@@ -102,7 +102,7 @@ Para Modificar un egreso:
 Cambiar fecha a un egreso
 -------------------------
 
-Para Modificar un egreso:
+Para cambiar la fecha a un egreso:
 
 	- Realice la búsqueda correspondiente usando los filtros necesarios	
 	- Hag click en |export1.gif| al final de la fila del reporte y luego haga click en "Modificar egreso #######"
