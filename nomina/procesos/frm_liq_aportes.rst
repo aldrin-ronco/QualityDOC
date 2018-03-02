@@ -23,13 +23,29 @@ Liquidar Aportes o Provisiones
 ===============================
 
 	- Ejecute la opción *Liquidación de aportes & provisiones de seguridad social*
+		 .. figure:: images/ñ/0.jpg
+		   :align: center
+
 	- Seleccione la pestaña acorde a la liquidación: Liquidación de aportes parafíscales | Liquidación de Provisiones de prestaciones sociales
+
+		 .. figure:: images/ñ/1.jpg
+		   :align: center
+
+
 	- Seleccione un centro de costo en la lista 'Centro de costo'
 	- Seleccione la Sección de nómina. La sección debe tener empleados agregados.
 	- Marque la opción **Liquidar aportes** en el panel 'qué proceso desea realizar'
+
+		 .. figure:: images/ñ/2.jpg
+		   :align: center
+
 	- Solo podrá liquidar el último periodo pendiente. Es decir, si su última liquidación fue del mes de enero de 2018, su actual liquidación será del mes de febrero de 2018. 
 	- Presione |btn_ok.bmp| para realizar la liquidación. Ahora las povisiones o aportes han sido calculados y puede observar el detalle por empleado.
+
+
 	- Presione |save.bmp| para cerrar la operación.
+
+
 
 
 Consultar Aportes o Provisiones
@@ -41,8 +57,13 @@ Consultar Aportes o Provisiones
 	- Seleccione la pestaña acorde a la liquidación: Liquidación de aportes parafíscales | Liquidación de Provisiones de prestaciones sociales
 	- Seleccione un centro de costo en la lista 'Centro de costo'
 	- Seleccione la Sección de nómina. La sección debe tener empleados agregados.
+
+
+		 .. figure:: images/ñ/3.jpg
+		   :align: center
+
 	- Marque la opción **Consultar nómina** en el panel 'qué proceso desea realizar' 
-	- En la segunda línea de opciones encontrará: |Periodo: **Periodo a Consultar**| - Elija en cada lista los identificadores de la nómina que desea consultar, ejemplo:
+	- En la segunda línea de opciones encontrará: | Periodo: **Periodo a Consultar** | - Elija en cada lista los identificadores de la nómina que desea consultar, ejemplo:
 
 		**| Período: 1 - 31 de enero de 2018|**
 
@@ -50,14 +71,6 @@ Consultar Aportes o Provisiones
 
 
 
-/////////////////
-Imprimir un comprobante de pago de empleado
-============================================
-
-		- Siga los pasos de `Consultar Nómina`_
-		- Busque en la grilla al empleado, a la izquierda de la fila, haga click en |export1.gif|
-		- Haga click en |export1.gif|
-		- Seleccione en el menú emergente "Imprimir comprobante de pago"
 
 
 
