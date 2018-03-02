@@ -36,10 +36,10 @@ Liquidar Nómina
 	- Marque la opción **Liquidar nómina** en el panel 'qué proceso desea realizar'
 	- Solo podrá liquidar el último periodo pendiente. Es decir, si su última liquidación fue del 15-30 de enero de 2018, su actual liquidación será 1-15 de febrero de 2018. 
 	- Presione |btn_ok.bmp| para realizar la liquidación. Ahora la nómina ha sido calculada y puede observar el detalle por empleado y hacer cambios en los montos.
-		 .. figure:: images/m/1.jpg
+		 .. figure:: images/n/1.jpg
 		   :align: center
 	- Presione |save.bmp| para cerrar la operación. 
-		 .. figure:: images/m/2.jpg
+		 .. figure:: images/n/2.jpg
 		   :align: center
 
 	.. NOTE:
@@ -61,8 +61,8 @@ Consultar Nómina
 		**| Administrativo | 2018 | 1 - 15 de enero de 2018|**
 
 	- Presione |btn_ok.bmp|
-	
-		 .. figure:: images/m/1.jpg
+
+		 .. figure:: images/n/1.jpg
 		   :align: center
 
 Consultar detalle de nómina por empleado
