@@ -20,7 +20,7 @@ Introducción
 
 Use **ESC** para salir de las interfaces principales.
 
-	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando el pedido haya llegado y desee darle salida, deberá ir a la opción `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_
+	En este proceso puede crear un pedido a un cliente según sus necesidades. Este proceso no genera una salida del inventario. Cuando despache el pedido al cliente, deberá ir a la opción `Remisiones de pedidos <../../../inventario/standard/procesos/frm_remisiones.html>`_ para que el inventario se actualice y llevar el control de lo que ha entregado al cliente
 
 
 Pre-requisitos
@@ -74,9 +74,9 @@ Para crear un *Pedido* realice los siguientes pasos:
 	- Encontrará un campo de texto vacio, destinado a la búsqueda de productos. Use el lector laser, introduzca manualmente el código del producto, el codigo de acceso rápido o presione enter para buscarlo en la lista. El lector laser puede estar configurado para realizar un Enter automático después de encontrar el producto, si no es así, presione Enter.
 	- Verá información detallada del producto:
 
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
-| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento|plus.bmp|
-+--------+--------------+-----+------------+------------+--------------+---------------+-----------+--------+
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+------------+
+| Nombre | cód. Sistema | IVA | Existencia |**cantidad**|Valor Unitario|Valor Descuento|% descuento| |plus.bmp| |
++--------+--------------+-----+------------+------------+--------------+---------------+-----------+------------+
 
     - En el campo 'cantidad' introduzca el número de unidades que venderá o de veces que ha prestado un servicio.
     - En el campo 'precio de venta' podrá establecer otro precio distinto al ya marcado inicialmente por la lista de precios.
