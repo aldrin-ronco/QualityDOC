@@ -23,5 +23,6 @@ Módulos Administrativos
   /config/config
   /nomina/nomina
   /FAQ/faq
+  /mail/acceso
 
 *Aclare sus dudas sobre el manual o informe de inconsistencias en la documentación del sistema al correo:* **development@qualitysystems.com.com**

@@ -10,20 +10,25 @@ Quality System permite enviar facturas a sus clientes desde la aplicación. Para
 Para habilitar el acceso a Quality, siga estos pasos:
 
 
-Abra la cuenta de correo Gmail, a la cual desea acceder Quality.
-En la esquina superior derecha, verá su foto de perfil o un círculo con la letra inicial del nombre de su compañía. Haga click sobre él.
-Verá un menú desplegable con un botón Mi Cuenta, haga click en él.
+1- Abra la cuenta de correo Gmail, a la cual desea acceder Quality.
+2- En la esquina superior derecha, verá su foto de perfil o un círculo con la letra inicial del nombre de su compañía. Haga click sobre él.
+3- Verá un menú desplegable con un botón Mi Cuenta, haga click en él.
 
 	
+   .. figure:: images/1.png
+ 	:align: center
+
+4- Se desplegará otra ventana con las opciones de tu cuenta. El primer recuadro de opciones se titula “Inicio de Sesión y Seguridad” haz click sobre él.
 
 
-Se desplegará otra ventana con las opciones de tu cuenta. El primer recuadro de opciones se titula “Inicio de Sesión y Seguridad” haz click sobre él.
+   .. figure:: images/2.png
+ 	:align: center
 
+5- Se abrirá la página de opciones de seguridad. Vaya al final de la página usando el scrollbar, la rueda del ratón o la flecha hacia abajo. 
+6- Allí verá la opción Permitir el acceso de aplicaciones menos seguras: NO. Haga click sobre el Switch para cambiar el estado NO a SÍ. Si ya estaba en sí, el trabajo está hecho.
 
-
-
-Se abrirá la página de opciones de seguridad. Vaya al final de la página usando el scrollbar, la rueda del ratón o la flecha hacia abajo. 
-Allí verá la opción Permitir el acceso de aplicaciones menos seguras: NO. Haga click sobre el Switch para cambiar el estado NO a SÍ. Si ya estaba en sí, el trabajo está hecho.
+   .. figure:: images/3.png
+ 	:align: center
 
 
 
